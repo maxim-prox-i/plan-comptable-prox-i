@@ -2310,19 +2310,6 @@
       "61": {
         "label": "Services extrieurs",
         "children": {
-          "61/": {
-            "label": "",
-            "children": {
-              "61/6": {
-                "label": "",
-                "children": {
-                  "61/62": {
-                    "label": "AUTRES CHARGES EXTERNES"
-                  }
-                }
-              }
-            }
-          },
           "611": {
             "label": "Sous-traitance gnrale"
           },
