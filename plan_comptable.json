@@ -3,19 +3,19 @@
     "label": "",
     "children": {
       "10": {
-        "label": "CAPITAL ET RSERVES",
+        "label": "CAPITAL ET RÉSERVES",
         "children": {
           "101": {
             "label": "Capital",
             "children": {
               "1011": {
-                "label": "Capital souscrit - non appel"
+                "label": "Capital souscrit - non appelé"
               },
               "1012": {
-                "label": "Capital souscrit - appel, non vers"
+                "label": "Capital souscrit - appelé, non versé"
               },
               "1013": {
-                "label": "Capital souscrit - appel, vers",
+                "label": "Capital souscrit - appelé, versé",
                 "children": {
                   "10131": {
                     "label": "Capital non amorti"
@@ -26,7 +26,7 @@
                 }
               },
               "1018": {
-                "label": "Capital souscrit soumis  des rglementations particulires"
+                "label": "Capital souscrit soumis à des réglementations particulières"
               }
             }
           },
@@ -34,10 +34,10 @@
             "label": "Fonds fiduciaires"
           },
           "104": {
-            "label": "Primes lies au capital social",
+            "label": "Primes liées au capital social",
             "children": {
               "1041": {
-                "label": "Primes d'mission"
+                "label": "Primes d'émission"
               },
               "1042": {
                 "label": "Primes de fusion"
@@ -54,105 +54,105 @@
             }
           },
           "105": {
-            "label": "carts de rvaluation",
+            "label": "Écarts de réévaluation",
             "children": {
               "1051": {
-                "label": "Rserve spciale de rvaluation"
+                "label": "Réserve spéciale de réévaluation"
               },
               "1052": {
-                "label": "cart de rvaluation libre"
+                "label": "Écart de réévaluation libre"
               },
               "1053": {
-                "label": "Rserve de rvaluation"
+                "label": "Réserve de réévaluation"
               },
               "1055": {
-                "label": "carts de rvaluation (autres oprations lgales)"
+                "label": "Écarts de réévaluation (autres opérations légales)"
               },
               "1057": {
-                "label": "Autres carts de rvaluation en France"
+                "label": "Autres écarts de réévaluation en France"
               },
               "1058": {
-                "label": "Autres carts de rvaluation  l'tranger"
+                "label": "Autres écarts de réévaluation à l'Étranger"
               }
             }
           },
           "106": {
-            "label": "Rserves",
+            "label": "Réserves",
             "children": {
               "1061": {
-                "label": "Rserve lgale",
+                "label": "Réserve légale",
                 "children": {
                   "10611": {
-                    "label": "Rserve lgale proprement dite"
+                    "label": "Réserve légale proprement dite"
                   },
                   "10612": {
-                    "label": "Plus - values nettes  long terme - values nettes  long terme"
+                    "label": "Plus - values nettes à long terme - values nettes à long terme"
                   }
                 }
               },
               "1062": {
-                "label": "Rserves indisponibles"
+                "label": "Réserves indisponibles"
               },
               "1063": {
-                "label": "Rserves statutaires ou contractuelles"
+                "label": "Réserves statutaires ou contractuelles"
               },
               "1064": {
-                "label": "Rserves rglementes",
+                "label": "Réserves réglementées",
                 "children": {
                   "10641": {
-                    "label": "Plus - values nettes  long terme - values nettes  long terme"
+                    "label": "Plus - values nettes à long terme - values nettes à long terme"
                   },
                   "10643": {
-                    "label": "Rserves conscutives  l'octroi de subventions d'investissement"
+                    "label": "Réserves consécutives à l'octroi de subventions d'investissement"
                   },
                   "10648": {
-                    "label": "Autres rserves rglementes"
+                    "label": "Autres réserves réglementées"
                   }
                 }
               },
               "1068": {
-                "label": "Autres rserves",
+                "label": "Autres réserves",
                 "children": {
                   "10681": {
-                    "label": "Rserve de propre assureur"
+                    "label": "Réserve de propre assureur"
                   },
                   "10688": {
-                    "label": "Rserves diverses"
+                    "label": "Réserves diverses"
                   }
                 }
               }
             }
           },
           "107": {
-            "label": "cart d'quivalence"
+            "label": "Écart d'équivalence"
           },
           "108": {
             "label": "Compte de l'exploitant"
           },
           "109": {
-            "label": "Actionnaires : Capital souscrit - non appel"
+            "label": "Actionnaires : Capital souscrit - non appelé"
           }
         }
       },
       "11": {
-        "label": "REPORT A NOUVEAU (solde crditeur ou dbiteur)",
+        "label": "REPORT A NOUVEAU (solde créditeur ou débiteur)",
         "children": {
           "110": {
-            "label": "Report  nouveau (solde crditeur)"
+            "label": "Report à nouveau (solde créditeur)"
           },
           "119": {
-            "label": "Report  nouveau (solde dbiteur)"
+            "label": "Report à nouveau (solde débiteur)"
           }
         }
       },
       "12": {
-        "label": "RSULTAT DE L'EXERCICE (bnfice ou perte)",
+        "label": "RÉSULTAT DE L'EXERCICE (bénéfice ou perte)",
         "children": {
           "120": {
-            "label": "Rsultat de l'exercice (bnfice)"
+            "label": "Résultat de l'exercice (bénéfice)"
           },
           "129": {
-            "label": "Rsultat de l'exercice (perte)"
+            "label": "Résultat de l'exercice (perte)"
           }
         }
       },
@@ -160,28 +160,28 @@
         "label": "SUBVENTIONS D'INVESTISSEMENT",
         "children": {
           "131": {
-            "label": "Subventions d'quipement",
+            "label": "Subventions d'équipement",
             "children": {
               "1311": {
-                "label": "tat"
+                "label": "État"
               },
               "1312": {
-                "label": "Rgions"
+                "label": "Régions"
               },
               "1313": {
-                "label": "Dpartements"
+                "label": "Départements"
               },
               "1314": {
                 "label": "Communes"
               },
               "1315": {
-                "label": "Collectivits publiques"
+                "label": "Collectivités publiques"
               },
               "1316": {
                 "label": "Entreprises publiques"
               },
               "1317": {
-                "label": "Entreprises et organismes privs"
+                "label": "Entreprises et organismes privés"
               },
               "1318": {
                 "label": "Autres"
@@ -189,34 +189,34 @@
             }
           },
           "138": {
-            "label": "Autres subventions d'investissement (mme ventilation que celle du compte 131)"
+            "label": "Autres subventions d'investissement (même ventilation que celle du compte 131)"
           },
           "139": {
-            "label": "Subventions d'investissement inscrites au compte de rsultat",
+            "label": "Subventions d'investissement inscrites au compte de résultat",
             "children": {
               "1391": {
-                "label": "Subventions d'quipement",
+                "label": "Subventions d'équipement",
                 "children": {
                   "13911": {
-                    "label": "tat"
+                    "label": "État"
                   },
                   "13912": {
-                    "label": "Rgions"
+                    "label": "Régions"
                   },
                   "13913": {
-                    "label": "Dpartements"
+                    "label": "Départements"
                   },
                   "13914": {
                     "label": "Communes"
                   },
                   "13915": {
-                    "label": "Collectivits publiques"
+                    "label": "Collectivités publiques"
                   },
                   "13916": {
                     "label": "Entreprises publiques"
                   },
                   "13917": {
-                    "label": "Entreprises et organismes privs"
+                    "label": "Entreprises et organismes privés"
                   },
                   "13918": {
                     "label": "Autres"
@@ -224,28 +224,28 @@
                 }
               },
               "1398": {
-                "label": "Autres subventions d'investissement (mme ventilation que celle du compte 1391)"
+                "label": "Autres subventions d'investissement (même ventilation que celle du compte 1391)"
               }
             }
           }
         }
       },
       "14": {
-        "label": "PROVISIONS RGLEMENTES",
+        "label": "PROVISIONS RÉGLEMENTÉES",
         "children": {
           "142": {
-            "label": "Provisions rglementes relatives aux immobilisations",
+            "label": "Provisions réglementées relatives aux immobilisations",
             "children": {
               "1423": {
-                "label": "Provisions pour reconstitution des gisements miniers et ptroliers"
+                "label": "Provisions pour reconstitution des gisements miniers et pétroliers"
               },
               "1424": {
-                "label": "Provisions pour investissement (participation des salaris)"
+                "label": "Provisions pour investissement (participation des salariés)"
               }
             }
           },
           "143": {
-            "label": "Provisions rglementes relatives aux stocks",
+            "label": "Provisions réglementées relatives aux stocks",
             "children": {
               "1431": {
                 "label": "Hausse des prix"
@@ -256,19 +256,19 @@
             }
           },
           "144": {
-            "label": "Provisions rglementes relatives aux autres lments de l'actif"
+            "label": "Provisions réglementées relatives aux autres éléments de l'actif"
           },
           "145": {
-            "label": "Amortissements drogatoires"
+            "label": "Amortissements dérogatoires"
           },
           "146": {
-            "label": "Provision spciale de rvaluation"
+            "label": "Provision spéciale de réévaluation"
           },
           "147": {
-            "label": "Plus - values rinvesties"
+            "label": "Plus - values réinvesties"
           },
           "148": {
-            "label": "Autres provisions rglementes"
+            "label": "Autres provisions réglementées"
           }
         }
       },
@@ -282,13 +282,13 @@
                 "label": "Provisions pour litiges"
               },
               "1512": {
-                "label": "Provisions pour garanties donnes aux clients"
+                "label": "Provisions pour garanties données aux clients"
               },
               "1513": {
-                "label": "Provisions pour pertes sur marchs  terme"
+                "label": "Provisions pour pertes sur marchés à terme"
               },
               "1514": {
-                "label": "Provisions pour amendes et pnalits"
+                "label": "Provisions pour amendes et pénalités"
               },
               "1515": {
                 "label": "Provisions pour pertes de change"
@@ -308,16 +308,16 @@
             "label": "Provisions pour restructurations"
           },
           "155": {
-            "label": "Provisions pour impts"
+            "label": "Provisions pour impôts"
           },
           "156": {
             "label": "Provisions pour renouvellement des immobilisations (entreprises concessionnaires)"
           },
           "157": {
-            "label": "Provisions pour charges  rpartir sur plusieurs exercices",
+            "label": "Provisions pour charges à répartir sur plusieurs exercices",
             "children": {
               "1572": {
-                "label": "Provisions pour gros entretien ou grandes rvisions"
+                "label": "Provisions pour gros entretien ou grandes révisions"
               }
             }
           },
@@ -325,32 +325,32 @@
             "label": "Autres provisions pour charges",
             "children": {
               "1581": {
-                "label": "Provisions pour remises en tat"
+                "label": "Provisions pour remises en état"
               }
             }
           }
         }
       },
       "16": {
-        "label": "EMPRUNTS ET DETTES ASSIMILES",
+        "label": "EMPRUNTS ET DETTES ASSIMILÉES",
         "children": {
           "161": {
             "label": "Emprunts obligataires convertibles"
           },
           "162": {
-            "label": "Obligations reprsentatives de passifs nets remis en fiducie"
+            "label": "Obligations représentatives de passifs nets remis en fiducie"
           },
           "163": {
             "label": "Autres emprunts obligataires"
           },
           "164": {
-            "label": "Emprunts auprs des tablissements de crdit"
+            "label": "Emprunts auprès des établissements de crédit"
           },
           "165": {
-            "label": "Dpts et cautionnements reus",
+            "label": "Dépôts et cautionnements reçus",
             "children": {
               "1651": {
-                "label": "Dpts"
+                "label": "Dépôts"
               },
               "1655": {
                 "label": "Cautionnements"
@@ -358,10 +358,10 @@
             }
           },
           "166": {
-            "label": "Participation des salaris aux rsultats",
+            "label": "Participation des salariés aux résultats",
             "children": {
               "1661": {
-                "label": "Comptes bloqus"
+                "label": "Comptes bloqués"
               },
               "1662": {
                 "label": "Fonds de participation"
@@ -369,13 +369,13 @@
             }
           },
           "167": {
-            "label": "Emprunts et dettes assortis de conditions particulires",
+            "label": "Emprunts et dettes assortis de conditions particulières",
             "children": {
               "1671": {
-                "label": "missions de titres participatifs"
+                "label": "Émissions de titres participatifs"
               },
               "1674": {
-                "label": "Avances conditionnes de l'tat"
+                "label": "Avances conditionnées de l'État"
               },
               "1675": {
                 "label": "Emprunts participatifs"
@@ -383,19 +383,19 @@
             }
           },
           "168": {
-            "label": "Autres emprunts et dettes assimiles",
+            "label": "Autres emprunts et dettes assimilées",
             "children": {
               "1681": {
                 "label": "Autres emprunts"
               },
               "1685": {
-                "label": "Rentes viagres capitalises"
+                "label": "Rentes viagères capitalisées"
               },
               "1687": {
                 "label": "Autres dettes"
               },
               "1688": {
-                "label": "Intrts courus",
+                "label": "Intérêts courus",
                 "children": {
                   "16881": {
                     "label": "Sur emprunts obligataires convertibles"
@@ -404,19 +404,19 @@
                     "label": "Sur autres emprunts obligataires"
                   },
                   "16884": {
-                    "label": "Sur emprunts auprs des tablissements de crdit"
+                    "label": "Sur emprunts auprès des établissements de crédit"
                   },
                   "16885": {
-                    "label": "Sur dpts et cautionnements reus"
+                    "label": "Sur dépôts et cautionnements reçus"
                   },
                   "16886": {
-                    "label": "Sur participation des salaris aux rsultats"
+                    "label": "Sur participation des salariés aux résultats"
                   },
                   "16887": {
-                    "label": "Sur emprunts et dettes assortis de conditions particulires"
+                    "label": "Sur emprunts et dettes assortis de conditions particulières"
                   },
                   "16888": {
-                    "label": "Sur autres emprunts et dettes assimiles"
+                    "label": "Sur autres emprunts et dettes assimilées"
                   }
                 }
               }
@@ -428,41 +428,41 @@
         }
       },
       "17": {
-        "label": "DETTES RATTACHES A DES PARTICIPATIONS",
+        "label": "DETTES RATTACHÉES A DES PARTICIPATIONS",
         "children": {
           "171": {
-            "label": "Dettes rattaches  des participations (groupe)"
+            "label": "Dettes rattachées à des participations (groupe)"
           },
           "174": {
-            "label": "Dettes rattaches  des participations (hors groupe)"
+            "label": "Dettes rattachées à des participations (hors groupe)"
           },
           "178": {
-            "label": "Dettes rattaches  des socits en participation",
+            "label": "Dettes rattachées à des sociétés en participation",
             "children": {
               "1781": {
                 "label": "Principal"
               },
               "1788": {
-                "label": "Intrts courus"
+                "label": "Intérêts courus"
               }
             }
           }
         }
       },
       "18": {
-        "label": "COMPTES DE LIAISON DES TABLISSEMENTS ET SOCITS EN PARTICIPATION",
+        "label": "COMPTES DE LIAISON DES ÉTABLISSEMENTS ET SOCIÉTÉS EN PARTICIPATION",
         "children": {
           "181": {
-            "label": "Comptes de liaison des tablissements"
+            "label": "Comptes de liaison des établissements"
           },
           "186": {
-            "label": "Biens et prestations de services changs entre tablissements (charges)"
+            "label": "Biens et prestations de services échangés entre établissements (charges)"
           },
           "187": {
-            "label": "Biens et prestations de services changs entre tablissements (produits)"
+            "label": "Biens et prestations de services échangés entre établissements (produits)"
           },
           "188": {
-            "label": "Comptes de liaison des socits en participation"
+            "label": "Comptes de liaison des sociétés en participation"
           }
         }
       }
@@ -475,32 +475,32 @@
         "label": "IMMOBILISATIONS INCORPORELLES",
         "children": {
           "201": {
-            "label": "Frais d'tablissement",
+            "label": "Frais d'établissement",
             "children": {
               "2011": {
                 "label": "Frais de constitution"
               },
               "2012": {
-                "label": "Frais de premier tablissement",
+                "label": "Frais de premier établissement",
                 "children": {
                   "20121": {
                     "label": "Frais de prospection"
                   },
                   "20122": {
-                    "label": "Frais de publicit"
+                    "label": "Frais de publicité"
                   }
                 }
               },
               "2013": {
-                "label": "Frais d'augmentation de capital et d'oprations diverses (fusions, scissions, transformations)"
+                "label": "Frais d'augmentation de capital et d'opérations diverses (fusions, scissions, transformations)"
               }
             }
           },
           "203": {
-            "label": "Frais de recherche et de dveloppement"
+            "label": "Frais de recherche et de développement"
           },
           "205": {
-            "label": "Concessions et droits similaires, brevets, licences, marques, procds, logiciels, droits et valeurs similaires"
+            "label": "Concessions et droits similaires, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires"
           },
           "206": {
             "label": "Droit au bail"
@@ -528,16 +528,16 @@
                 "label": "Terrains nus"
               },
               "2112": {
-                "label": "Terrains amnags"
+                "label": "Terrains aménagés"
               },
               "2113": {
                 "label": "Sous-sols et sur-sols"
               },
               "2114": {
-                "label": "Terrains de carrires (Trfonds)"
+                "label": "Terrains de carrières (Tréfonds)"
               },
               "2115": {
-                "label": "Terrains btis",
+                "label": "Terrains bâtis",
                 "children": {
                   "21151": {
                     "label": "Ensembles immobiliers industriels (A, B...)"
@@ -549,10 +549,10 @@
                     "label": "Autres ensembles immobiliers",
                     "children": {
                       "211581": {
-                        "label": "affects aux oprations professionnelles (A, B...)"
+                        "label": "affectés aux opérations professionnelles (A, B...)"
                       },
                       "211588": {
-                        "label": "affects aux oprations non professionnelles (A, B...)"
+                        "label": "affectés aux opérations non professionnelles (A, B...)"
                       }
                     }
                   }
@@ -564,13 +564,13 @@
             }
           },
           "212": {
-            "label": "Agencements et amnagements de terrains (mme ventilation que celle du compte 211)"
+            "label": "Agencements et aménagements de terrains (même ventilation que celle du compte 211)"
           },
           "213": {
             "label": "Constructions",
             "children": {
               "2131": {
-                "label": "Btiments",
+                "label": "Bâtiments",
                 "children": {
                   "21311": {
                     "label": "Ensembles immobiliers industriels (A, B...)"
@@ -582,17 +582,17 @@
                     "label": "Autres ensembles immobiliers",
                     "children": {
                       "213181": {
-                        "label": "affects aux oprations professionnelles (A, B...)"
+                        "label": "affectés aux opérations professionnelles (A, B...)"
                       },
                       "213188": {
-                        "label": "affects aux oprations non professionnelles (A, B...)"
+                        "label": "affectés aux opérations non professionnelles (A, B...)"
                       }
                     }
                   }
                 }
               },
               "2135": {
-                "label": "Installations gnrales - agencements - amnagements des constructions (mme ventilation que celle du compte 2131)",
+                "label": "Installations générales - agencements - aménagements des constructions (même ventilation que celle du compte 2131)",
                 "children": {
                   "21351": {
                     "label": "Ensembles immobiliers industriels (A, B...)"
@@ -604,10 +604,10 @@
                     "label": "Autres ensembles immobiliers",
                     "children": {
                       "213581": {
-                        "label": "affects aux oprations professionnelles (A, B...)"
+                        "label": "affectés aux opérations professionnelles (A, B...)"
                       },
                       "213588": {
-                        "label": "affects aux oprations non professionnelles (A, B...)"
+                        "label": "affectés aux opérations non professionnelles (A, B...)"
                       }
                     }
                   }
@@ -629,20 +629,20 @@
                     "label": "Barrages"
                   },
                   "21385": {
-                    "label": "Pistes d'arodromes"
+                    "label": "Pistes d'aérodromes"
                   }
                 }
               }
             }
           },
           "214": {
-            "label": "Constructions sur sol d'autrui (mme ventilation que celle du compte 213)"
+            "label": "Constructions sur sol d'autrui (même ventilation que celle du compte 213)"
           },
           "215": {
-            "label": "Installations techniques, matriels et outillage industriels",
+            "label": "Installations techniques, matériels et outillage industriels",
             "children": {
               "2151": {
-                "label": "Installations complexes spcialises",
+                "label": "Installations complexes spécialisées",
                 "children": {
                   "21511": {
                     "label": "sur sol propre"
@@ -653,7 +653,7 @@
                 }
               },
               "2153": {
-                "label": "Installations  caractre spcifique",
+                "label": "Installations à caractère spécifique",
                 "children": {
                   "21531": {
                     "label": "sur sol propre"
@@ -664,13 +664,13 @@
                 }
               },
               "2154": {
-                "label": "Matriel industriel"
+                "label": "Matériel industriel"
               },
               "2155": {
                 "label": "Outillage industriel"
               },
               "2157": {
-                "label": "Agencements et amnagements du matriel et outillage industriels"
+                "label": "Agencements et aménagements du matériel et outillage industriels"
               }
             }
           },
@@ -678,13 +678,13 @@
             "label": "Autres immobilisations corporelles",
             "children": {
               "2181": {
-                "label": "Installations gnrales, agencements, amnagements divers"
+                "label": "Installations générales, agencements, aménagements divers"
               },
               "2182": {
-                "label": "Matriel de transport"
+                "label": "Matériel de transport"
               },
               "2183": {
-                "label": "Matriel de bureau et matriel informatique"
+                "label": "Matériel de bureau et matériel informatique"
               },
               "2184": {
                 "label": "Mobilier"
@@ -693,7 +693,7 @@
                 "label": "Cheptel"
               },
               "2186": {
-                "label": "Emballages rcuprables"
+                "label": "Emballages récupérables"
               },
               "2187": {
                 "label": "Mali de fusions sur actifs corporels (1)"
@@ -718,7 +718,7 @@
                 "label": "Constructions"
               },
               "2315": {
-                "label": "Installations techniques, matriel et outillage industriels"
+                "label": "Installations techniques, matériel et outillage industriels"
               },
               "2318": {
                 "label": "Autres immobilisations corporelles"
@@ -729,10 +729,10 @@
             "label": "Immobilisations incorporelles en cours"
           },
           "237": {
-            "label": "Avances et acomptes verss sur immobilisations incorporelles"
+            "label": "Avances et acomptes versés sur immobilisations incorporelles"
           },
           "238": {
-            "label": "Avances et acomptes verss sur commandes d'immobilisations corporelles",
+            "label": "Avances et acomptes versés sur commandes d'immobilisations corporelles",
             "children": {
               "2382": {
                 "label": "Terrains"
@@ -741,7 +741,7 @@
                 "label": "Constructions"
               },
               "2385": {
-                "label": "Installations techniques, matriel et outillage industriels"
+                "label": "Installations techniques, matériel et outillage industriels"
               },
               "2388": {
                 "label": "Autres immobilisations corporelles"
@@ -751,10 +751,10 @@
         }
       },
       "25": {
-        "label": "PARTS DANS DES ENTREPRISES LIES ET CRANCES SUR DES ENTREPRISES LIES"
+        "label": "PARTS DANS DES ENTREPRISES LIÉES ET CRÉANCES SUR DES ENTREPRISES LIÉES"
       },
       "26": {
-        "label": "PARTICIPATIONS ET CRANCES RATTACHES  DES PARTICIPATIONS",
+        "label": "PARTICIPATIONS ET CRÉANCES RATTACHÉES À DES PARTICIPATIONS",
         "children": {
           "261": {
             "label": "Titres de participation",
@@ -771,54 +771,54 @@
             "label": "Autres formes de participation",
             "children": {
               "2661": {
-                "label": "Droits reprsentatifs d'actifs nets remis en fiducie"
+                "label": "Droits représentatifs d'actifs nets remis en fiducie"
               }
             }
           },
           "267": {
-            "label": "Crances rattaches  des participations",
+            "label": "Créances rattachées à des participations",
             "children": {
               "2671": {
-                "label": "Crances rattaches  des participations (groupe)"
+                "label": "Créances rattachées à des participations (groupe)"
               },
               "2674": {
-                "label": "Crances rattaches  des participations (hors groupe)"
+                "label": "Créances rattachées à des participations (hors groupe)"
               },
               "2675": {
-                "label": "Versements reprsentatifs d'apports non capitaliss (appel de fonds)"
+                "label": "Versements représentatifs d'apports non capitalisés (appel de fonds)"
               },
               "2676": {
                 "label": "Avances consolidables"
               },
               "2677": {
-                "label": "Autres crances rattaches  des participations"
+                "label": "Autres créances rattachées à des participations"
               },
               "2678": {
-                "label": "Intrts courus"
+                "label": "Intérêts courus"
               }
             }
           },
           "268": {
-            "label": "Crances rattaches  des socits en participation",
+            "label": "Créances rattachées à des sociétés en participation",
             "children": {
               "2681": {
                 "label": "Principal"
               },
               "2688": {
-                "label": "Intrts courus"
+                "label": "Intérêts courus"
               }
             }
           },
           "269": {
-            "label": "Versements restant  effectuer sur titres de participation non librs"
+            "label": "Versements restant à effectuer sur titres de participation non libérés"
           }
         }
       },
       "27": {
-        "label": "AUTRES IMMOBILISATIONS FINANCIRES",
+        "label": "AUTRES IMMOBILISATIONS FINANCIÈRES",
         "children": {
           "271": {
-            "label": "Titres immobiliss autres que les titres immobiliss de l'activit de portefeuille (droit de proprit)",
+            "label": "Titres immobilisés autres que les titres immobilisés de l'activité de portefeuille (droit de propriété)",
             "children": {
               "2711": {
                 "label": "Actions"
@@ -829,7 +829,7 @@
             }
           },
           "272": {
-            "label": "Titres immobiliss (droit de crance)",
+            "label": "Titres immobilisés (droit de créance)",
             "children": {
               "2721": {
                 "label": "Obligations"
@@ -840,30 +840,30 @@
             }
           },
           "273": {
-            "label": "Titres immobiliss de l'activit de portefeuille"
+            "label": "Titres immobilisés de l'activité de portefeuille"
           },
           "274": {
-            "label": "Prts",
+            "label": "Prêts",
             "children": {
               "2741": {
-                "label": "Prts participatifs"
+                "label": "Prêts participatifs"
               },
               "2742": {
-                "label": "Prts aux associs"
+                "label": "Prêts aux associés"
               },
               "2743": {
-                "label": "Prts au personnel"
+                "label": "Prêts au personnel"
               },
               "2748": {
-                "label": "Autres prts"
+                "label": "Autres prêts"
               }
             }
           },
           "275": {
-            "label": "Dpts et cautionnements verss",
+            "label": "Dépôts et cautionnements versés",
             "children": {
               "2751": {
-                "label": "Dpts"
+                "label": "Dépôts"
               },
               "2755": {
                 "label": "Cautionnements"
@@ -871,25 +871,25 @@
             }
           },
           "276": {
-            "label": "Autres crances immobilises",
+            "label": "Autres créances immobilisées",
             "children": {
               "2761": {
-                "label": "Crances diverses"
+                "label": "Créances diverses"
               },
               "2768": {
-                "label": "Intrts courus",
+                "label": "Intérêts courus",
                 "children": {
                   "27682": {
-                    "label": "Sur titres immobiliss (droit de crance)"
+                    "label": "Sur titres immobilisés (droit de créance)"
                   },
                   "27684": {
-                    "label": "Sur prts"
+                    "label": "Sur prêts"
                   },
                   "27685": {
-                    "label": "Sur dpts et cautionnements"
+                    "label": "Sur dépôts et cautionnements"
                   },
                   "27688": {
-                    "label": "Sur crances diverses"
+                    "label": "Sur créances diverses"
                   }
                 }
               }
@@ -910,7 +910,7 @@
             "label": "Mali de fusion sur actifs financiers (1)"
           },
           "279": {
-            "label": "Versements restant  effectuer sur titres immobiliss non librs"
+            "label": "Versements restant à effectuer sur titres immobilisés non libérés"
           }
         }
       },
@@ -921,10 +921,10 @@
             "label": "Amortissements des immobilisations incorporelles",
             "children": {
               "2801": {
-                "label": "Frais d'tablissement (mme ventilation que celle du compte 201)"
+                "label": "Frais d'établissement (même ventilation que celle du compte 201)"
               },
               "2803": {
-                "label": "Frais de recherche et de dveloppement"
+                "label": "Frais de recherche et de développement"
               },
               "2805": {
                 "label": "Concessions et droits similaires, brevets, licences, logiciels, droits et valeurs similaires"
@@ -946,19 +946,19 @@
             "label": "Amortissements des immobilisations corporelles",
             "children": {
               "2812": {
-                "label": "Agencements, amnagements de terrains (mme ventilation que celle du compte 212)"
+                "label": "Agencements, aménagements de terrains (même ventilation que celle du compte 212)"
               },
               "2813": {
-                "label": "Constructions (mme ventilation que celle du compte 213)"
+                "label": "Constructions (même ventilation que celle du compte 213)"
               },
               "2814": {
-                "label": "Constructions sur sol d'autrui (mme ventilation que celle du compte 214)"
+                "label": "Constructions sur sol d'autrui (même ventilation que celle du compte 214)"
               },
               "2815": {
-                "label": "Installations techniques, matriel et outillage industriels (mme ventilation que celle du compte 215)"
+                "label": "Installations techniques, matériel et outillage industriels (même ventilation que celle du compte 215)"
               },
               "2818": {
-                "label": "Autres immobilisations corporelles (mme ventilation que celle du compte 218)",
+                "label": "Autres immobilisations corporelles (même ventilation que celle du compte 218)",
                 "children": {
                   "28187": {
                     "label": "Amortissements du mali de fusion sur actifs corporels (1)"
@@ -973,13 +973,13 @@
         }
       },
       "29": {
-        "label": "DPRCIATIONS DES IMMOBILISATIONS",
+        "label": "DÉPRÉCIATIONS DES IMMOBILISATIONS",
         "children": {
           "290": {
-            "label": "Dprciations des immobilisations incorporelles",
+            "label": "Dépréciations des immobilisations incorporelles",
             "children": {
               "2905": {
-                "label": "Marques, procds, droits et valeurs similaires"
+                "label": "Marques, procédés, droits et valeurs similaires"
               },
               "2906": {
                 "label": "Droit au bail"
@@ -991,30 +991,30 @@
                 "label": "Autres immobilisations incorporelles",
                 "children": {
                   "29081": {
-                    "label": "Dprciation du mali de fusion sur actifs incorporels (1)"
+                    "label": "Dépréciation du mali de fusion sur actifs incorporels (1)"
                   }
                 }
               }
             }
           },
           "291": {
-            "label": "dprciations des immobilisations corporelles (mme ventilation que celle du compte 21)",
+            "label": "dépréciations des immobilisations corporelles (même ventilation que celle du compte 21)",
             "children": {
               "2918": {
                 "label": "",
                 "children": {
                   "29187": {
-                    "label": "Dprciation du mali de fusion sur actifs incorporels (1)"
+                    "label": "Dépréciation du mali de fusion sur actifs incorporels (1)"
                   }
                 }
               }
             }
           },
           "292": {
-            "label": "dprciations des immobilisations mises en concession"
+            "label": "dépréciations des immobilisations mises en concession"
           },
           "293": {
-            "label": "dprciations des immobilisations en cours",
+            "label": "dépréciations des immobilisations en cours",
             "children": {
               "2931": {
                 "label": "Immobilisations corporelles en cours"
@@ -1025,7 +1025,7 @@
             }
           },
           "296": {
-            "label": "Dprciations des participations et crances rattaches  des participations ",
+            "label": "Dépréciations des participations et créances rattachées à des participations –",
             "children": {
               "2961": {
                 "label": "Titres de participation"
@@ -1034,39 +1034,39 @@
                 "label": "Autres formes de participation"
               },
               "2967": {
-                "label": "Crances rattaches  des participations (mme ventilation que celle du compte 267)"
+                "label": "Créances rattachées à des participations (même ventilation que celle du compte 267)"
               },
               "2968": {
-                "label": "Crances rattaches  des socits en participation (mme ventilation que celle du compte 268)"
+                "label": "Créances rattachées à des sociétés en participation (même ventilation que celle du compte 268)"
               }
             }
           },
           "297": {
-            "label": "Dprciations des autres immobilisations financires",
+            "label": "Dépréciations des autres immobilisations financières",
             "children": {
               "2971": {
-                "label": "Titres immobiliss autres que les titres immobiliss de l'activit de portefeuille, droit de proprit (mme ventilation que celle du compte 271)"
+                "label": "Titres immobilisés autres que les titres immobilisés de l'activité de portefeuille, droit de propriété (même ventilation que celle du compte 271)"
               },
               "2972": {
-                "label": "Titres immobiliss, droit de crance (mme ventilation que celle du compte 272)"
+                "label": "Titres immobilisés, droit de créance (même ventilation que celle du compte 272)"
               },
               "2973": {
-                "label": "Titres immobiliss de l'activit de portefeuille"
+                "label": "Titres immobilisés de l'activité de portefeuille"
               },
               "2974": {
-                "label": "Prts (mme ventilation que celle du compte 274)"
+                "label": "Prêts (même ventilation que celle du compte 274)"
               },
               "2975": {
-                "label": "Dpts et cautionnements verss (mme ventilation que celle du compte 275)"
+                "label": "Dépôts et cautionnements versés (même ventilation que celle du compte 275)"
               },
               "2976": {
-                "label": "Autres crances immobilises (mme ventilation que celle du compte 276)"
+                "label": "Autres créances immobilisées (même ventilation que celle du compte 276)"
               },
               "2978": {
                 "label": "",
                 "children": {
                   "29787": {
-                    "label": "Dprciation du mali de fusion sur actifs financiers (1)"
+                    "label": "Dépréciation du mali de fusion sur actifs financiers (1)"
                   }
                 }
               }
@@ -1080,13 +1080,13 @@
     "label": "",
     "children": {
       "31": {
-        "label": "MATIRES PREMIRES (ET FOURNITURES)",
+        "label": "MATIÈRES PREMIÈRES (ET FOURNITURES)",
         "children": {
           "311": {
-            "label": "Matires (ou groupe) A"
+            "label": "Matières (ou groupe) A"
           },
           "312": {
-            "label": "Matires (ou groupe) B"
+            "label": "Matières (ou groupe) B"
           },
           "317": {
             "label": "Fournitures A, B, C, ..."
@@ -1097,13 +1097,13 @@
         "label": "AUTRES APPROVISIONNEMENTS",
         "children": {
           "321": {
-            "label": "Matires consommables",
+            "label": "Matières consommables",
             "children": {
               "3211": {
-                "label": "Matires (ou groupe) C"
+                "label": "Matières (ou groupe) C"
               },
               "3212": {
-                "label": "Matires (ou groupe) D"
+                "label": "Matières (ou groupe) D"
               }
             }
           },
@@ -1134,10 +1134,10 @@
                 "label": "Emballages perdus"
               },
               "3265": {
-                "label": "Emballages rcuprables non identifiables"
+                "label": "Emballages récupérables non identifiables"
               },
               "3267": {
-                "label": "Emballages  usage mixte"
+                "label": "Emballages à usage mixte"
               }
             }
           }
@@ -1174,13 +1174,13 @@
         "label": "EN-COURS DE PRODUCTION DE SERVICES",
         "children": {
           "341": {
-            "label": "tudes en cours",
+            "label": "Études en cours",
             "children": {
               "3411": {
-                "label": "tudes en cours E 1"
+                "label": "Études en cours E 1"
               },
               "3412": {
-                "label": "tudes en cours E 2"
+                "label": "Études en cours E 2"
               }
             }
           },
@@ -1201,13 +1201,13 @@
         "label": "STOCKS DE PRODUITS",
         "children": {
           "351": {
-            "label": "Produits intermdiaires",
+            "label": "Produits intermédiaires",
             "children": {
               "3511": {
-                "label": "Produits intermdiaires (ou groupe) A"
+                "label": "Produits intermédiaires (ou groupe) A"
               },
               "3512": {
-                "label": "Produits intermdiaires (ou groupe) B"
+                "label": "Produits intermédiaires (ou groupe) B"
               }
             }
           },
@@ -1223,23 +1223,23 @@
             }
           },
           "358": {
-            "label": "Produits rsiduels (ou matires de rcupration)",
+            "label": "Produits résiduels (ou matières de récupération)",
             "children": {
               "3581": {
-                "label": "Dchets"
+                "label": "Déchets"
               },
               "3585": {
                 "label": "Rebuts"
               },
               "3586": {
-                "label": "Matires de rcupration"
+                "label": "Matières de récupération"
               }
             }
           }
         }
       },
       "36": {
-        "label": "(compte  ouvrir, le cas chant, sous l'intitul  stocks provenant d'immobilisations )"
+        "label": "(compte à ouvrir, le cas échéant, sous l'intitulé « stocks provenant d'immobilisations »)"
       },
       "37": {
         "label": "STOCKS DE MARCHANDISES",
@@ -1253,19 +1253,19 @@
         }
       },
       "38": {
-        "label": "(lorsque l'entit tient un inventaire permanent en comptabilit gnrale, le compte 38 peut tre utilis pour comptabiliser les stocks en voie d'acheminement, mis en dpt ou donns en consignation)"
+        "label": "(lorsque l'entité tient un inventaire permanent en comptabilité générale, le compte 38 peut être utilisé pour comptabiliser les stocks en voie d'acheminement, mis en dépôt ou donnés en consignation)"
       },
       "39": {
-        "label": "DPRCIATIONS DES STOCKS ET EN-COURS",
+        "label": "DÉPRÉCIATIONS DES STOCKS ET EN-COURS",
         "children": {
           "391": {
-            "label": "Dprciations des matires premires (et fournitures)",
+            "label": "Dépréciations des matières premières (et fournitures)",
             "children": {
               "3911": {
-                "label": "Matires (ou groupe) A"
+                "label": "Matières (ou groupe) A"
               },
               "3912": {
-                "label": "Matires (ou groupe) B"
+                "label": "Matières (ou groupe) B"
               },
               "3917": {
                 "label": "Fournitures A, B, C, ..."
@@ -1273,54 +1273,54 @@
             }
           },
           "392": {
-            "label": "Dprciations des autres approvisionnements",
+            "label": "Dépréciations des autres approvisionnements",
             "children": {
               "3921": {
-                "label": "Matires consommables (mme ventilation que celle du compte 321)"
+                "label": "Matières consommables (même ventilation que celle du compte 321)"
               },
               "3922": {
-                "label": "Fournitures consommables (mme ventilation que celle du compte 322)"
+                "label": "Fournitures consommables (même ventilation que celle du compte 322)"
               },
               "3926": {
-                "label": "Emballages (mme ventilation que celle du compte 326)"
+                "label": "Emballages (même ventilation que celle du compte 326)"
               }
             }
           },
           "393": {
-            "label": "Dprciations des en-cours de production de biens",
+            "label": "Dépréciations des en-cours de production de biens",
             "children": {
               "3931": {
-                "label": "Produits en cours (mme ventilation que celle du compte 331)"
+                "label": "Produits en cours (même ventilation que celle du compte 331)"
               },
               "3935": {
-                "label": "Travaux en cours (mme ventilation que celle du compte 335)"
+                "label": "Travaux en cours (même ventilation que celle du compte 335)"
               }
             }
           },
           "394": {
-            "label": "Dprciations des en-cours de production de services",
+            "label": "Dépréciations des en-cours de production de services",
             "children": {
               "3941": {
-                "label": "tudes en cours (mme ventilation que celle du compte 341)"
+                "label": "Études en cours (même ventilation que celle du compte 341)"
               },
               "3945": {
-                "label": "Prestations de services en cours (mme ventilation que celle du compte 345)"
+                "label": "Prestations de services en cours (même ventilation que celle du compte 345)"
               }
             }
           },
           "395": {
-            "label": "Dprciations des stocks de produits",
+            "label": "Dépréciations des stocks de produits",
             "children": {
               "3951": {
-                "label": "Produits intermdiaires (mme ventilation que celle du compte 351)"
+                "label": "Produits intermédiaires (même ventilation que celle du compte 351)"
               },
               "3955": {
-                "label": "Produits finis (mme ventilation que celle du compte 355)"
+                "label": "Produits finis (même ventilation que celle du compte 355)"
               }
             }
           },
           "397": {
-            "label": "Dprciations des stocks de marchandises",
+            "label": "Dépréciations des stocks de marchandises",
             "children": {
               "3971": {
                 "label": "Marchandise (ou groupe) A"
@@ -1338,10 +1338,10 @@
     "label": "",
     "children": {
       "40": {
-        "label": "FOURNISSEURS ET COMPTES RATTACHS",
+        "label": "FOURNISSEURS ET COMPTES RATTACHÉS",
         "children": {
           "400": {
-            "label": "Fournisseurs et Comptes rattachs"
+            "label": "Fournisseurs et Comptes rattachés"
           },
           "401": {
             "label": "Fournisseurs",
@@ -1355,7 +1355,7 @@
             }
           },
           "403": {
-            "label": "Fournisseurs - Effets  payer"
+            "label": "Fournisseurs - Effets à payer"
           },
           "404": {
             "label": "Fournisseurs d'immobilisations",
@@ -1369,7 +1369,7 @@
             }
           },
           "405": {
-            "label": "Fournisseurs d'immobilisations - Effets  payer"
+            "label": "Fournisseurs d'immobilisations - Effets à payer"
           },
           "408": {
             "label": "Fournisseurs - Factures non parvenues",
@@ -1381,18 +1381,18 @@
                 "label": "Fournisseurs d'immobilisations"
               },
               "4088": {
-                "label": "Fournisseurs - Intrts courus"
+                "label": "Fournisseurs - Intérêts courus"
               }
             }
           },
           "409": {
-            "label": "Fournisseurs dbiteurs",
+            "label": "Fournisseurs débiteurs",
             "children": {
               "4091": {
-                "label": "Fournisseurs - Avances et acomptes verss sur commandes"
+                "label": "Fournisseurs - Avances et acomptes versés sur commandes"
               },
               "4096": {
-                "label": "Fournisseurs - Crances pour emballages et matriel  rendre"
+                "label": "Fournisseurs - Créances pour emballages et matériel à rendre"
               },
               "4097": {
                 "label": "Fournisseurs - Autres avoirs",
@@ -1406,17 +1406,17 @@
                 }
               },
               "4098": {
-                "label": "Rabais, remises, ristournes  obtenir et autres avoirs non encore reus"
+                "label": "Rabais, remises, ristournes à obtenir et autres avoirs non encore reçus"
               }
             }
           }
         }
       },
       "41": {
-        "label": "CLIENTS ET COMPTES RATTACHS",
+        "label": "CLIENTS ET COMPTES RATTACHÉS",
         "children": {
           "410": {
-            "label": "Clients et Comptes rattachs"
+            "label": "Clients et Comptes rattachés"
           },
           "411": {
             "label": "Clients",
@@ -1430,55 +1430,55 @@
             }
           },
           "413": {
-            "label": "Clients - Effets  recevoir"
+            "label": "Clients - Effets à recevoir"
           },
           "416": {
             "label": "Clients douteux ou litigieux"
           },
           "418": {
-            "label": "Clients - Produits non encore facturs",
+            "label": "Clients - Produits non encore facturés",
             "children": {
               "4181": {
-                "label": "Clients - Factures  tablir"
+                "label": "Clients - Factures à établir"
               },
               "4188": {
-                "label": "Clients - Intrts courus"
+                "label": "Clients - Intérêts courus"
               }
             }
           },
           "419": {
-            "label": "Clients crditeurs",
+            "label": "Clients créditeurs",
             "children": {
               "4191": {
-                "label": "Clients - Avances et acomptes reus sur commandes"
+                "label": "Clients - Avances et acomptes reçus sur commandes"
               },
               "4196": {
-                "label": "Clients - Dettes sur emballages et matriels consigns"
+                "label": "Clients - Dettes sur emballages et matériels consignés"
               },
               "4197": {
                 "label": "Clients - Autres avoirs"
               },
               "4198": {
-                "label": "Rabais, remises, ristournes  accorder et autres avoirs  tablir"
+                "label": "Rabais, remises, ristournes à accorder et autres avoirs à établir"
               }
             }
           }
         }
       },
       "42": {
-        "label": "PERSONNEL ET COMPTES RATTACHS",
+        "label": "PERSONNEL ET COMPTES RATTACHÉS",
         "children": {
           "421": {
-            "label": "Personnel - Rmunrations dues"
+            "label": "Personnel - Rémunérations dues"
           },
           "422": {
-            "label": "Comits d'entreprises, d'tablissement, ..."
+            "label": "Comités d'entreprises, d'établissement, ..."
           },
           "424": {
-            "label": "Participation des salaris aux rsultats",
+            "label": "Participation des salariés aux résultats",
             "children": {
               "4246": {
-                "label": "Rserve spciale"
+                "label": "Réserve spéciale"
               },
               "4248": {
                 "label": "Comptes courants"
@@ -1489,60 +1489,60 @@
             "label": "Personnel - Avances et acomptes"
           },
           "426": {
-            "label": "Personnel  Dpts"
+            "label": "Personnel – Dépôts"
           },
           "427": {
             "label": "Personnel - Oppositions"
           },
           "428": {
-            "label": "Personnel - Charges  payer et produits  recevoir",
+            "label": "Personnel - Charges à payer et produits à recevoir",
             "children": {
               "4282": {
-                "label": "Dettes provisionnes pour congs  payer"
+                "label": "Dettes provisionnées pour congés à payer"
               },
               "4284": {
-                "label": "Dettes provisionnes pour participation des salaris aux rsultats"
+                "label": "Dettes provisionnées pour participation des salariés aux résultats"
               },
               "4286": {
-                "label": "Autres charges  payer"
+                "label": "Autres charges à payer"
               },
               "4287": {
-                "label": "Produits  recevoir"
+                "label": "Produits à recevoir"
               }
             }
           }
         }
       },
       "43": {
-        "label": "SCURIT SOCIALE ET AUTRES ORGANISMES SOCIAUX",
+        "label": "SÉCURITÉ SOCIALE ET AUTRES ORGANISMES SOCIAUX",
         "children": {
           "431": {
-            "label": "Scurit sociale"
+            "label": "Sécurité sociale"
           },
           "437": {
             "label": "Autres organismes sociaux"
           },
           "438": {
-            "label": "Organismes sociaux - Charges  payer et produits  recevoir",
+            "label": "Organismes sociaux - Charges à payer et produits à recevoir",
             "children": {
               "4382": {
-                "label": "Charges sociales sur congs  payer"
+                "label": "Charges sociales sur congés à payer"
               },
               "4386": {
-                "label": "Autres charges  payer"
+                "label": "Autres charges à payer"
               },
               "4387": {
-                "label": "Produits  recevoir"
+                "label": "Produits à recevoir"
               }
             }
           }
         }
       },
       "44": {
-        "label": "ETAT ET AUTRES COLLECTIVITS PUBLIQUES",
+        "label": "ETAT ET AUTRES COLLECTIVITÉS PUBLIQUES",
         "children": {
           "441": {
-            "label": "Etat - Subventions  recevoir",
+            "label": "Etat - Subventions à recevoir",
             "children": {
               "4411": {
                 "label": "Subventions d'investissement"
@@ -1551,7 +1551,7 @@
                 "label": "Subventions d'exploitation"
               },
               "4418": {
-                "label": "Subventions d'quilibre"
+                "label": "Subventions d'équilibre"
               },
               "4419": {
                 "label": "Avances sur subventions"
@@ -1559,232 +1559,232 @@
             }
           },
           "442": {
-            "label": "Contributions, impts et taxes recouvrs pour le compte de l'Etat (2)",
+            "label": "Contributions, impôts et taxes recouvrés pour le compte de l'Etat (2)",
             "children": {
               "4421": {
-                "label": "Prlvements  la source (Impt sur le revenu) (2)"
+                "label": "Prélèvements à la source (Impôt sur le revenu) (2)"
               },
               "4422": {
-                "label": "Prlvements forfaitaires non libratoires (2)"
+                "label": "Prélèvements forfaitaires non libératoires (2)"
               },
               "4423": {
-                "label": "Retenues et prlvements sur les distributions (2)"
+                "label": "Retenues et prélèvements sur les distributions (2)"
               },
               "4424": {
                 "label": "Obligataires"
               },
               "4425": {
-                "label": "Associs"
+                "label": "Associés"
               }
             }
           },
           "443": {
-            "label": "Oprations particulires avec l'tat, les collectivits publiques, les organismes internationaux",
+            "label": "Opérations particulières avec l'État, les collectivités publiques, les organismes internationaux",
             "children": {
               "4431": {
-                "label": "Crances sur l'Etat rsultant de la suppression de la rgle du dcalage d'un mois en matire de T.V.A."
+                "label": "Créances sur l'Etat résultant de la suppression de la règle du décalage d'un mois en matière de T.V.A."
               },
               "4438": {
-                "label": "Intrts courus sur crances figurant au compte 4431"
+                "label": "Intérêts courus sur créances figurant au compte 4431"
               }
             }
           },
           "444": {
-            "label": "tat - Impts sur les bnfices"
+            "label": "État - Impôts sur les bénéfices"
           },
           "445": {
-            "label": "tat - Taxes sur le chiffre d'affaires",
+            "label": "État - Taxes sur le chiffre d'affaires",
             "children": {
               "4452": {
                 "label": "T.V.A. due intracommunautaire"
               },
               "4455": {
-                "label": "Taxes sur le chiffre d'affaires  dcaisser",
+                "label": "Taxes sur le chiffre d'affaires à décaisser",
                 "children": {
                   "44551": {
-                    "label": "T.V.A.  dcaisser"
+                    "label": "T.V.A. à décaisser"
                   },
                   "44558": {
-                    "label": "Taxes assimiles  la T.V.A."
+                    "label": "Taxes assimilées à la T.V.A."
                   }
                 }
               },
               "4456": {
-                "label": "Taxes sur le chiffre d'affaires dductibles",
+                "label": "Taxes sur le chiffre d'affaires déductibles",
                 "children": {
                   "44562": {
                     "label": "T.V.A. sur immobilisations"
                   },
                   "44563": {
-                    "label": "T.V.A. transfre par d'autres entreprises"
+                    "label": "T.V.A. transférée par d'autres entreprises"
                   },
                   "44566": {
                     "label": "T.V.A. sur autres biens et services"
                   },
                   "44567": {
-                    "label": "Crdit de T.V.A.  reporter"
+                    "label": "Crédit de T.V.A. à reporter"
                   },
                   "44568": {
-                    "label": "Taxes assimiles  la T.V.A."
+                    "label": "Taxes assimilées à la T.V.A."
                   }
                 }
               },
               "4457": {
-                "label": "Taxes sur le chiffre d'affaires collectes par l'entreprise",
+                "label": "Taxes sur le chiffre d'affaires collectées par l'entreprise",
                 "children": {
                   "44571": {
-                    "label": "T.V.A. Collecte"
+                    "label": "T.V.A. Collectée"
                   },
                   "44578": {
-                    "label": "Taxes assimiles  la T.V.A."
+                    "label": "Taxes assimilées à la T.V.A."
                   }
                 }
               },
               "4458": {
-                "label": "Taxes sur le chiffre d'affaires  rgulariser ou en attente",
+                "label": "Taxes sur le chiffre d'affaires à régulariser ou en attente",
                 "children": {
                   "44581": {
-                    "label": "Acomptes - Rgime simplifi d'imposition"
+                    "label": "Acomptes - Régime simplifié d'imposition"
                   },
                   "44582": {
-                    "label": "Acomptes - Rgime du forfait"
+                    "label": "Acomptes - Régime du forfait"
                   },
                   "44583": {
-                    "label": "Remboursement de taxes sur le chiffre d'affaires demand"
+                    "label": "Remboursement de taxes sur le chiffre d'affaires demandé"
                   },
                   "44584": {
-                    "label": "T.V.A. rcupre d'avance"
+                    "label": "T.V.A. récupérée d'avance"
                   },
                   "44586": {
                     "label": "Taxes sur le chiffre d'affaires sur factures non parvenues"
                   },
                   "44587": {
-                    "label": "Taxes sur le chiffre d'affaires sur factures  tablir"
+                    "label": "Taxes sur le chiffre d'affaires sur factures à établir"
                   }
                 }
               }
             }
           },
           "446": {
-            "label": "Obligations cautionnes"
+            "label": "Obligations cautionnées"
           },
           "447": {
-            "label": "Autres impts, taxes et versements assimils"
+            "label": "Autres impôts, taxes et versements assimilés"
           },
           "448": {
-            "label": "tat - Charges  payer et produits  recevoir",
+            "label": "État - Charges à payer et produits à recevoir",
             "children": {
               "4482": {
-                "label": "Charges fiscales sur congs  payer"
+                "label": "Charges fiscales sur congés à payer"
               },
               "4486": {
-                "label": "Charges  payer"
+                "label": "Charges à payer"
               },
               "4487": {
-                "label": "Produits  recevoir"
+                "label": "Produits à recevoir"
               }
             }
           },
           "449": {
-            "label": "Quotas d'mission  acqurir"
+            "label": "Quotas d'émission à acquérir"
           }
         }
       },
       "45": {
-        "label": "GROUPE ET ASSOCIS",
+        "label": "GROUPE ET ASSOCIÉS",
         "children": {
           "451": {
             "label": "Groupe"
           },
           "455": {
-            "label": "Associs - Comptes courants",
+            "label": "Associés - Comptes courants",
             "children": {
               "4551": {
                 "label": "Principal"
               },
               "4558": {
-                "label": "Intrts courus"
+                "label": "Intérêts courus"
               }
             }
           },
           "456": {
-            "label": "Associs - Oprations sur le capital",
+            "label": "Associés - Opérations sur le capital",
             "children": {
               "4561": {
-                "label": "Associs - Comptes d'apport en socit",
+                "label": "Associés - Comptes d'apport en société",
                 "children": {
                   "45611": {
                     "label": "Apports en nature"
                   },
                   "45615": {
-                    "label": "Apports en numraire"
+                    "label": "Apports en numéraire"
                   }
                 }
               },
               "4562": {
-                "label": "Apporteurs - Capital appel, non vers",
+                "label": "Apporteurs - Capital appelé, non versé",
                 "children": {
                   "45621": {
-                    "label": "Actionnaires - Capital souscrit et appel, non vers"
+                    "label": "Actionnaires - Capital souscrit et appelé, non versé"
                   },
                   "45625": {
-                    "label": "Associs - Capital appel, non vers"
+                    "label": "Associés - Capital appelé, non versé"
                   }
                 }
               },
               "4563": {
-                "label": "Associs - Versements reus sur augmentation de capital"
+                "label": "Associés - Versements reçus sur augmentation de capital"
               },
               "4564": {
-                "label": "Associs - Versements anticips"
+                "label": "Associés - Versements anticipés"
               },
               "4566": {
-                "label": "Actionnaires dfaillants"
+                "label": "Actionnaires défaillants"
               },
               "4567": {
-                "label": "Associs - Capital  rembourser"
+                "label": "Associés - Capital à rembourser"
               }
             }
           },
           "457": {
-            "label": "Associs - Dividendes  payer"
+            "label": "Associés - Dividendes à payer"
           },
           "458": {
-            "label": "Associs - Oprations faites en commun et en G.I.E.",
+            "label": "Associés - Opérations faites en commun et en G.I.E.",
             "children": {
               "4581": {
-                "label": "Oprations courantes"
+                "label": "Opérations courantes"
               },
               "4588": {
-                "label": "Intrts courus"
+                "label": "Intérêts courus"
               }
             }
           }
         }
       },
       "46": {
-        "label": "DBITEURS DIVERS ET CRDITEURS DIVERS",
+        "label": "DÉBITEURS DIVERS ET CRÉDITEURS DIVERS",
         "children": {
           "462": {
-            "label": "Crances sur cessions d'immobilisations"
+            "label": "Créances sur cessions d'immobilisations"
           },
           "464": {
-            "label": "Dettes sur acquisitions de valeurs mobilires de placement"
+            "label": "Dettes sur acquisitions de valeurs mobilières de placement"
           },
           "465": {
-            "label": "Crances sur cessions de valeurs mobilires de placement"
+            "label": "Créances sur cessions de valeurs mobilières de placement"
           },
           "467": {
-            "label": "Autres comptes dbiteurs ou crditeurs"
+            "label": "Autres comptes débiteurs ou créditeurs"
           },
           "468": {
-            "label": "Divers - Charges  payer et produits  recevoir",
+            "label": "Divers - Charges à payer et produits à recevoir",
             "children": {
               "4686": {
-                "label": "Charges  payer"
+                "label": "Charges à payer"
               },
               "4687": {
-                "label": "Produits  recevoir"
+                "label": "Produits à recevoir"
               }
             }
           }
@@ -1803,13 +1803,13 @@
             "label": "Comptes d'attente"
           },
           "474": {
-            "label": "Diffrences d'valuation de jetons sur des passifs",
+            "label": "Différences d'évaluation de jetons sur des passifs",
             "children": {
               "4746": {
-                "label": "Diffrences d'valuation de jetons sur des passifs - ACTIF"
+                "label": "Différences d'évaluation de jetons sur des passifs - ACTIF"
               },
               "4747": {
-                "label": "Diffrences d'valuation de jetons sur des passifs - PASSIF"
+                "label": "Différences d'évaluation de jetons sur des passifs - PASSIF"
               }
             }
           },
@@ -1817,30 +1817,30 @@
             "label": "Comptes d'attente"
           },
           "476": {
-            "label": "Diffrence de conversion - ACTIF",
+            "label": "Différence de conversion - ACTIF",
             "children": {
               "4761": {
-                "label": "Diminution des crances"
+                "label": "Diminution des créances"
               },
               "4762": {
                 "label": "Augmentation des dettes"
               },
               "4768": {
-                "label": "Diffrences compenses par couverture de change"
+                "label": "Différences compensées par couverture de change"
               }
             }
           },
           "477": {
-            "label": "Diffrences de conversion - PASSIF",
+            "label": "Différences de conversion - PASSIF",
             "children": {
               "4771": {
-                "label": "Augmentation des crances"
+                "label": "Augmentation des créances"
               },
               "4772": {
                 "label": "Diminution des dettes"
               },
               "4778": {
-                "label": "Diffrences compenses par couverture de change"
+                "label": "Différences compensées par couverture de change"
               }
             }
           },
@@ -1851,24 +1851,24 @@
                 "label": "Mali de fusion sur actif circulant"
               },
               "4786": {
-                "label": "Diffrences d'valuation - ACTIF",
+                "label": "Différences d'évaluation - ACTIF",
                 "children": {
                   "47861": {
-                    "label": "Diffrences d'valuation sur instruments financier  terme - ACTIF"
+                    "label": "Différences d'évaluation sur instruments financier à terme - ACTIF"
                   },
                   "47862": {
-                    "label": "Diffrences d'valuation sur jetons dtenus - ACTIF"
+                    "label": "Différences d'évaluation sur jetons détenus - ACTIF"
                   }
                 }
               },
               "4787": {
-                "label": "Diffrences d'valuation - PASSIF",
+                "label": "Différences d'évaluation - PASSIF",
                 "children": {
                   "47871": {
-                    "label": "Diffrences d'valuation sur instruments financier  terme - PASSIF"
+                    "label": "Différences d'évaluation sur instruments financier à terme - PASSIF"
                   },
                   "47872": {
-                    "label": "Diffrences d'valuation sur jetons dtenus - PASSIF"
+                    "label": "Différences d'évaluation sur jetons détenus - PASSIF"
                   }
                 }
               }
@@ -1877,29 +1877,29 @@
         }
       },
       "48": {
-        "label": "COMPTES DE RGULARISATION",
+        "label": "COMPTES DE RÉGULARISATION",
         "children": {
           "481": {
-            "label": "Charges  rpartir sur plusieurs exercices",
+            "label": "Charges à répartir sur plusieurs exercices",
             "children": {
               "4816": {
-                "label": "Frais d'mission des emprunts"
+                "label": "Frais d'émission des emprunts"
               }
             }
           },
           "486": {
-            "label": "Charges constates d'avance"
+            "label": "Charges constatées d'avance"
           },
           "487": {
-            "label": "Produits constats d'avance",
+            "label": "Produits constatés d'avance",
             "children": {
               "4871": {
-                "label": "Produits constats d'avance sur jetons mis"
+                "label": "Produits constatés d'avance sur jetons émis"
               }
             }
           },
           "488": {
-            "label": "Comptes de rpartition priodique des charges et des produits",
+            "label": "Comptes de répartition périodique des charges et des produits",
             "children": {
               "4886": {
                 "label": "Charges"
@@ -1912,36 +1912,36 @@
         }
       },
       "49": {
-        "label": "DPRCIATIONS DES COMPTES DE TIERS",
+        "label": "DÉPRÉCIATIONS DES COMPTES DE TIERS",
         "children": {
           "491": {
-            "label": "Dprciations des comptes de clients"
+            "label": "Dépréciations des comptes de clients"
           },
           "495": {
-            "label": "Dprciations des comptes du groupe et des associs",
+            "label": "Dépréciations des comptes du groupe et des associés",
             "children": {
               "4951": {
                 "label": "Comptes du groupe"
               },
               "4955": {
-                "label": "Comptes courants des associs"
+                "label": "Comptes courants des associés"
               },
               "4958": {
-                "label": "Oprations faites en commun et en G.I.E."
+                "label": "Opérations faites en commun et en G.I.E."
               }
             }
           },
           "496": {
-            "label": "Dprciations des comptes de dbiteurs divers",
+            "label": "Dépréciations des comptes de débiteurs divers",
             "children": {
               "4962": {
-                "label": "Crances sur cessions d'immobilisations"
+                "label": "Créances sur cessions d'immobilisations"
               },
               "4965": {
-                "label": "Crances sur cessions de valeurs mobilires de placement"
+                "label": "Créances sur cessions de valeurs mobilières de placement"
               },
               "4967": {
-                "label": "Autres comptes dbiteurs"
+                "label": "Autres comptes débiteurs"
               }
             }
           }
@@ -1953,19 +1953,19 @@
     "label": "",
     "children": {
       "50": {
-        "label": "VALEURS MOBILIRES DE PLACEMENT",
+        "label": "VALEURS MOBILIÈRES DE PLACEMENT",
         "children": {
           "501": {
-            "label": "Parts dans des entreprises lies"
+            "label": "Parts dans des entreprises liées"
           },
           "502": {
             "label": "Actions propres",
             "children": {
               "5021": {
-                "label": "Actions destines  tre attribues aux employs et affectes  des plans dtermins"
+                "label": "Actions destinées à être attribuées aux employés et affectées à des plans déterminés"
               },
               "5022": {
-                "label": "Actions disponibles pour tre attribues aux employs ou pour la rgularisation des cours de bourse"
+                "label": "Actions disponibles pour être attribuées aux employés ou pour la régularisation des cours de bourse"
               }
             }
           },
@@ -1973,69 +1973,69 @@
             "label": "Actions",
             "children": {
               "5031": {
-                "label": "Titres cots"
+                "label": "Titres cotés"
               },
               "5035": {
-                "label": "Titres non cots"
+                "label": "Titres non cotés"
               }
             }
           },
           "504": {
-            "label": "Autres titres confrant un droit de proprit"
+            "label": "Autres titres conférant un droit de propriété"
           },
           "505": {
-            "label": "Obligations et bons mis par la socit et rachets par elle"
+            "label": "Obligations et bons émis par la société et rachetés par elle"
           },
           "506": {
             "label": "Obligations",
             "children": {
               "5061": {
-                "label": "Titres cots"
+                "label": "Titres cotés"
               },
               "5065": {
-                "label": "Titres non cots"
+                "label": "Titres non cotés"
               }
             }
           },
           "507": {
-            "label": "Bons du Trsor et bons de caisse  court terme"
+            "label": "Bons du Trésor et bons de caisse à court terme"
           },
           "508": {
-            "label": "Autres valeurs mobilires de placement et autres crances assimiles",
+            "label": "Autres valeurs mobilières de placement et autres créances assimilées",
             "children": {
               "5081": {
-                "label": "Autres valeurs mobilires"
+                "label": "Autres valeurs mobilières"
               },
               "5082": {
                 "label": "Bons de souscription"
               },
               "5088": {
-                "label": "Intrts courus sur obligations, bons et valeurs assimiles"
+                "label": "Intérêts courus sur obligations, bons et valeurs assimilées"
               }
             }
           },
           "509": {
-            "label": "Versements restant  effectuer sur valeurs mobilires de placement non libres"
+            "label": "Versements restant à effectuer sur valeurs mobilières de placement non libérées"
           }
         }
       },
       "51": {
-        "label": "BANQUES, TABLISSEMENTS FINANCIERS ET ASSIMILS",
+        "label": "BANQUES, ÉTABLISSEMENTS FINANCIERS ET ASSIMILÉS",
         "children": {
           "511": {
-            "label": "Valeurs  l'encaissement",
+            "label": "Valeurs à l'encaissement",
             "children": {
               "5111": {
-                "label": "Coupons chus  l'encaissement"
+                "label": "Coupons échus à l'encaissement"
               },
               "5112": {
-                "label": "Chques  encaisser"
+                "label": "Chèques à encaisser"
               },
               "5113": {
-                "label": "Effets  l'encaissement"
+                "label": "Effets à l'encaissement"
               },
               "5114": {
-                "label": "Effets  l'escompte"
+                "label": "Effets à l'escompte"
               }
             }
           },
@@ -2051,25 +2051,25 @@
             }
           },
           "514": {
-            "label": "Chques postaux"
+            "label": "Chèques postaux"
           },
           "515": {
-            "label": " Caisses  du Trsor et des tablissements publics"
+            "label": "« Caisses » du Trésor et des établissements publics"
           },
           "516": {
-            "label": "Socits de bourse"
+            "label": "Sociétés de bourse"
           },
           "517": {
             "label": "Autres organismes financiers"
           },
           "518": {
-            "label": "Intrts courus",
+            "label": "Intérêts courus",
             "children": {
               "5181": {
-                "label": "Intrts courus  payer"
+                "label": "Intérêts courus à payer"
               },
               "5188": {
-                "label": "Intrts courus  recevoir"
+                "label": "Intérêts courus à recevoir"
               }
             }
           },
@@ -2077,32 +2077,32 @@
             "label": "Concours bancaires courants",
             "children": {
               "5191": {
-                "label": "Crdit de mobilisation de crances commerciales (CMCC)"
+                "label": "Crédit de mobilisation de créances commerciales (CMCC)"
               },
               "5193": {
-                "label": "Mobilisation de crances nes  l'tranger"
+                "label": "Mobilisation de créances nées à l'étranger"
               },
               "5198": {
-                "label": "Intrts courus sur concours bancaires courants"
+                "label": "Intérêts courus sur concours bancaires courants"
               }
             }
           }
         }
       },
       "52": {
-        "label": "INSTRUMENTS FINANCIERS  TERME ET JETONS DTENUS",
+        "label": "INSTRUMENTS FINANCIERS À TERME ET JETONS DÉTENUS",
         "children": {
           "521": {
-            "label": "Instruments financiers  terme"
+            "label": "Instruments financiers à terme"
           },
           "522": {
-            "label": "Jetons dtenus"
+            "label": "Jetons détenus"
           },
           "523": {
-            "label": "Jetons auto-dtenus"
+            "label": "Jetons auto-détenus"
           },
           "524": {
-            "label": "Jetons emprunts"
+            "label": "Jetons empruntés"
           }
         }
       },
@@ -2110,7 +2110,7 @@
         "label": "CAISSE",
         "children": {
           "531": {
-            "label": "Caisse sige social",
+            "label": "Caisse siège social",
             "children": {
               "5311": {
                 "label": "Caisse en monnaie nationale"
@@ -2129,28 +2129,28 @@
         }
       },
       "54": {
-        "label": "RGIES D'AVANCE ET ACCRDITIFS"
+        "label": "RÉGIES D'AVANCE ET ACCRÉDITIFS"
       },
       "58": {
         "label": "VIREMENTS INTERNES"
       },
       "59": {
-        "label": "DPRCIATIONS DES COMPTES FINANCIERS",
+        "label": "DÉPRÉCIATIONS DES COMPTES FINANCIERS",
         "children": {
           "590": {
-            "label": "Dprciations des valeurs mobilires de placement",
+            "label": "Dépréciations des valeurs mobilières de placement",
             "children": {
               "5903": {
                 "label": "Actions"
               },
               "5904": {
-                "label": "Autres titres confrant un droit de proprit"
+                "label": "Autres titres conférant un droit de propriété"
               },
               "5906": {
                 "label": "Obligations"
               },
               "5908": {
-                "label": "Autres valeurs mobilires de placement et crances assimiles"
+                "label": "Autres valeurs mobilières de placement et créances assimilées"
               }
             }
           }
@@ -2165,13 +2165,13 @@
         "label": "ACHATS (sauf 603)",
         "children": {
           "601": {
-            "label": "Achats stocks - Matires premires (et fournitures)",
+            "label": "Achats stockés - Matières premières (et fournitures)",
             "children": {
               "6011": {
-                "label": "Matires (ou groupe) A"
+                "label": "Matières (ou groupe) A"
               },
               "6012": {
-                "label": "Matires (ou groupe) B"
+                "label": "Matières (ou groupe) B"
               },
               "6017": {
                 "label": "Fournitures A, B, C, ..."
@@ -2179,16 +2179,16 @@
             }
           },
           "602": {
-            "label": "Achats stocks - Autres approvisionnements",
+            "label": "Achats stockés - Autres approvisionnements",
             "children": {
               "6021": {
-                "label": "Matires consommables",
+                "label": "Matières consommables",
                 "children": {
                   "60211": {
-                    "label": "Matires (ou groupe) C"
+                    "label": "Matières (ou groupe) C"
                   },
                   "60212": {
-                    "label": "Matires (ou groupe) D"
+                    "label": "Matières (ou groupe) D"
                   }
                 }
               },
@@ -2219,35 +2219,49 @@
                     "label": "Emballages perdus"
                   },
                   "60265": {
-                    "label": "Emballages rcuprables non identifiables"
+                    "label": "Emballages récupérables non identifiables"
                   },
                   "60267": {
-                    "label": "Emballages  usage mixte"
+                    "label": "Emballages à usage mixte"
                   }
                 }
               }
             }
           },
+          "603": {
+            "label": "VARIATIONS DES STOCKS (approvisionnements et marchandises)",
+            "children": {
+              "6031": {
+                "label": "Variation des stocks de matières premières (et fournitures)"
+              },
+              "6032": {
+                "label": "Variation des stocks des autres approvisionnements"
+              },
+              "6037": {
+                "label": "Variation des stocks de marchandises"
+              }
+            }
+          },
           "604": {
-            "label": "Achats d'tudes et prestations de services"
+            "label": "Achats d'études et prestations de services"
           },
           "605": {
-            "label": "Achats de matriel, quipements et travaux"
+            "label": "Achats de matériel, équipements et travaux"
           },
           "606": {
-            "label": "Achats non stocks de matires et fournitures",
+            "label": "Achats non stockés de matières et fournitures",
             "children": {
               "6061": {
-                "label": "Fournitures non stockables (eau, nergie, ...)"
+                "label": "Fournitures non stockables (eau, énergie, ...)"
               },
               "6063": {
-                "label": "Fournitures d'entretien et de petit quipement"
+                "label": "Fournitures d'entretien et de petit équipement"
               },
               "6064": {
                 "label": "Fournitures administratives"
               },
               "6068": {
-                "label": "Autres matires et fournitures"
+                "label": "Autres matières et fournitures"
               }
             }
           },
@@ -2263,64 +2277,50 @@
             }
           },
           "608": {
-            "label": "(Compte rserv, le cas chant,  la rcapitulation des frais accessoires incorpors aux achats)"
+            "label": "(Compte réservé, le cas échéant, à la récapitulation des frais accessoires incorporés aux achats)"
           },
           "609": {
             "label": "Rabais, remises et ristournes obtenus sur achats",
             "children": {
               "6091": {
-                "label": "de matires premires (et fournitures)"
+                "label": "de matières premières (et fournitures)"
               },
               "6092": {
-                "label": "d'autres approvisionnements stocks"
+                "label": "d'autres approvisionnements stockés"
               },
               "6094": {
-                "label": "d'tudes et prestations de services"
+                "label": "d'études et prestations de services"
               },
               "6095": {
-                "label": "de matriel, quipements et travaux"
+                "label": "de matériel, équipements et travaux"
               },
               "6096": {
-                "label": "d'approvisionnements non stocks"
+                "label": "d'approvisionnements non stockés"
               },
               "6097": {
                 "label": "de marchandises"
               },
               "6098": {
-                "label": "Rabais, remises et ristournes non affects"
-              }
-            }
-          },
-          "603": {
-            "label": "VARIATIONS DES STOCKS (approvisionnements et marchandises)",
-            "children": {
-              "6031": {
-                "label": "Variation des stocks de matires premires (et fournitures)"
-              },
-              "6032": {
-                "label": "Variation des stocks des autres approvisionnements"
-              },
-              "6037": {
-                "label": "Variation des stocks de marchandises"
+                "label": "Rabais, remises et ristournes non affectés"
               }
             }
           }
         }
       },
       "61": {
-        "label": "Services extrieurs",
+        "label": "Services extérieurs",
         "children": {
           "611": {
-            "label": "Sous-traitance gnrale"
+            "label": "Sous-traitance générale"
           },
           "612": {
-            "label": "Redevances de crdit-bail",
+            "label": "Redevances de crédit-bail",
             "children": {
               "6122": {
-                "label": "Crdit-bail mobilier"
+                "label": "Crédit-bail mobilier"
               },
               "6125": {
-                "label": "Crdit-bail immobilier"
+                "label": "Crédit-bail immobilier"
               }
             }
           },
@@ -2328,10 +2328,10 @@
             "label": "Locations",
             "children": {
               "6132": {
-                "label": "Locations immobilires"
+                "label": "Locations immobilières"
               },
               "6135": {
-                "label": "Locations mobilires"
+                "label": "Locations mobilières"
               },
               "6136": {
                 "label": "Malis sur emballages"
@@ -2339,10 +2339,10 @@
             }
           },
           "614": {
-            "label": "Charges locatives et de coproprit"
+            "label": "Charges locatives et de copropriété"
           },
           "615": {
-            "label": "Entretien et rparations",
+            "label": "Entretien et réparations",
             "children": {
               "6152": {
                 "label": "sur biens immobiliers"
@@ -2382,48 +2382,48 @@
                 "label": "Risques d'exploitation"
               },
               "6165": {
-                "label": "Insolvabilit clients"
+                "label": "Insolvabilité clients"
               }
             }
           },
           "617": {
-            "label": "tudes et recherches"
+            "label": "Études et recherches"
           },
           "618": {
             "label": "Divers",
             "children": {
               "6181": {
-                "label": "Documentation gnrale"
+                "label": "Documentation générale"
               },
               "6183": {
                 "label": "Documentation technique"
               },
               "6185": {
-                "label": "Frais de colloques, sminaires, confrences"
+                "label": "Frais de colloques, séminaires, conférences"
               }
             }
           },
           "619": {
-            "label": "Rabais, remises et ristournes obtenus sur services extrieurs"
+            "label": "Rabais, remises et ristournes obtenus sur services extérieurs"
           }
         }
       },
       "62": {
-        "label": "Autres services extrieurs",
+        "label": "Autres services extérieurs",
         "children": {
           "621": {
-            "label": "Personnel extrieur  l'entreprise",
+            "label": "Personnel extérieur à l'entreprise",
             "children": {
               "6211": {
-                "label": "Personnel intrimaire"
+                "label": "Personnel intérimaire"
               },
               "6214": {
-                "label": "Personnel dtach ou prt  l'entreprise"
+                "label": "Personnel détaché ou prêté à l'entreprise"
               }
             }
           },
           "622": {
-            "label": "Rmunrations d'intermdiaires et honoraires",
+            "label": "Rémunérations d'intermédiaires et honoraires",
             "children": {
               "6221": {
                 "label": "Commissions et courtages sur achats"
@@ -2432,10 +2432,10 @@
                 "label": "Commissions et courtages sur ventes"
               },
               "6224": {
-                "label": "Rmunrations des transitaires"
+                "label": "Rémunérations des transitaires"
               },
               "6225": {
-                "label": "Rmunrations d'affacturage"
+                "label": "Rémunérations d'affacturage"
               },
               "6226": {
                 "label": "Honoraires"
@@ -2449,25 +2449,25 @@
             }
           },
           "623": {
-            "label": "Publicit, publications, relations publiques",
+            "label": "Publicité, publications, relations publiques",
             "children": {
               "6231": {
                 "label": "Annonces et insertions"
               },
               "6232": {
-                "label": "chantillons"
+                "label": "Échantillons"
               },
               "6233": {
                 "label": "Foires et expositions"
               },
               "6234": {
-                "label": "Cadeaux  la clientle"
+                "label": "Cadeaux à la clientèle"
               },
               "6235": {
                 "label": "Primes"
               },
               "6236": {
-                "label": "Catalogues et imprims"
+                "label": "Catalogues et imprimés"
               },
               "6237": {
                 "label": "Publications"
@@ -2487,7 +2487,7 @@
                 "label": "Transports sur ventes"
               },
               "6243": {
-                "label": "Transports entre tablissements ou chantiers"
+                "label": "Transports entre établissements ou chantiers"
               },
               "6244": {
                 "label": "Transports administratifs"
@@ -2501,33 +2501,33 @@
             }
           },
           "625": {
-            "label": "Dplacements, missions et rceptions",
+            "label": "Déplacements, missions et réceptions",
             "children": {
               "6251": {
-                "label": "Voyages et dplacements"
+                "label": "Voyages et déplacements"
               },
               "6255": {
-                "label": "Frais de dmnagement"
+                "label": "Frais de déménagement"
               },
               "6256": {
                 "label": "Missions"
               },
               "6257": {
-                "label": "Rceptions"
+                "label": "Réceptions"
               }
             }
           },
           "626": {
-            "label": "Frais postaux et de tlcommunications"
+            "label": "Frais postaux et de télécommunications"
           },
           "627": {
-            "label": "Services bancaires et assimils",
+            "label": "Services bancaires et assimilés",
             "children": {
               "6271": {
                 "label": "Frais sur titres (achat, vente, garde)"
               },
               "6272": {
-                "label": "Commissions et frais sur mission d'emprunts"
+                "label": "Commissions et frais sur émission d'emprunts"
               },
               "6275": {
                 "label": "Frais sur effets"
@@ -2552,15 +2552,15 @@
             }
           },
           "629": {
-            "label": "Rabais, remises et ristournes obtenus sur autres services extrieurs"
+            "label": "Rabais, remises et ristournes obtenus sur autres services extérieurs"
           }
         }
       },
       "63": {
-        "label": "IMPTS, TAXES ET VERSEMENTS ASSIMILS",
+        "label": "IMPÔTS, TAXES ET VERSEMENTS ASSIMILÉS",
         "children": {
           "631": {
-            "label": "Impts, taxes et versements assimils sur rmunrations (administrations des impts)",
+            "label": "Impôts, taxes et versements assimilés sur rémunérations (administrations des impôts)",
             "children": {
               "6311": {
                 "label": "Taxe sur les salaires"
@@ -2569,10 +2569,10 @@
                 "label": "Taxe d'apprentissage"
               },
               "6313": {
-                "label": "Participation des employeurs  la formation professionnelle continue"
+                "label": "Participation des employeurs à la formation professionnelle continue"
               },
               "6314": {
-                "label": "Cotisation pour dfaut d'investissement obligatoire dans la construction"
+                "label": "Cotisation pour défaut d'investissement obligatoire dans la construction"
               },
               "6318": {
                 "label": "Autres"
@@ -2580,7 +2580,7 @@
             }
           },
           "633": {
-            "label": "Impts, taxes et versements assimils sur rmunrations (autres organismes)",
+            "label": "Impôts, taxes et versements assimilés sur rémunérations (autres organismes)",
             "children": {
               "6331": {
                 "label": "Versement de transport"
@@ -2589,13 +2589,13 @@
                 "label": "Allocations logement"
               },
               "6333": {
-                "label": "Participation des employeurs  la formation professionnelle continue"
+                "label": "Participation des employeurs à la formation professionnelle continue"
               },
               "6334": {
-                "label": "Participation des employeurs  l'effort de construction"
+                "label": "Participation des employeurs à l'effort de construction"
               },
               "6335": {
-                "label": "Versements libratoires ouvrant droit  l'exonration de la taxe d'apprentissage"
+                "label": "Versements libératoires ouvrant droit à l'exonération de la taxe d'apprentissage"
               },
               "6338": {
                 "label": "Autres"
@@ -2603,30 +2603,30 @@
             }
           },
           "635": {
-            "label": "Autres impts, taxes et versements assimils (administrations des impts)",
+            "label": "Autres impôts, taxes et versements assimilés (administrations des impôts)",
             "children": {
               "6351": {
-                "label": "Impts directs (sauf impts sur les bnfices)",
+                "label": "Impôts directs (sauf impôts sur les bénéfices)",
                 "children": {
                   "63511": {
-                    "label": "Contribution conomique territoriale (CVAE et CFE)"
+                    "label": "Contribution économique territoriale (CVAE et CFE)"
                   },
                   "63512": {
-                    "label": "Taxes foncires"
+                    "label": "Taxes foncières"
                   },
                   "63513": {
-                    "label": "Autres impts locaux"
+                    "label": "Autres impôts locaux"
                   },
                   "63514": {
-                    "label": "Taxe sur les vhicules des socits"
+                    "label": "Taxe sur les véhicules des sociétés"
                   }
                 }
               },
               "6352": {
-                "label": "Taxes sur le chiffre d'affaires non rcuprables"
+                "label": "Taxes sur le chiffre d'affaires non récupérables"
               },
               "6353": {
-                "label": "Impts indirects"
+                "label": "Impôts indirects"
               },
               "6354": {
                 "label": "Droits d'enregistrement et de timbre",
@@ -2642,16 +2642,16 @@
             }
           },
           "637": {
-            "label": "Autres impts, taxes et versements assimils (autres organismes)",
+            "label": "Autres impôts, taxes et versements assimilés (autres organismes)",
             "children": {
               "6371": {
-                "label": "Contribution sociale de solidarit  la charge des socits"
+                "label": "Contribution sociale de solidarité à la charge des sociétés"
               },
               "6372": {
-                "label": "Taxes perues par les organismes publics internationaux"
+                "label": "Taxes perçues par les organismes publics internationaux"
               },
               "6374": {
-                "label": "Impts et taxes exigibles  l'tranger"
+                "label": "Impôts et taxes exigibles à l'Étranger"
               },
               "6378": {
                 "label": "Taxes diverses"
@@ -2664,33 +2664,33 @@
         "label": "CHARGES DE PERSONNEL",
         "children": {
           "641": {
-            "label": "Rmunrations du personnel",
+            "label": "Rémunérations du personnel",
             "children": {
               "6411": {
                 "label": "Salaires, appointements"
               },
               "6412": {
-                "label": "Congs pays"
+                "label": "Congés payés"
               },
               "6413": {
                 "label": "Primes et gratifications"
               },
               "6414": {
-                "label": "Indemnits et avantages divers"
+                "label": "Indemnités et avantages divers"
               },
               "6415": {
-                "label": "Supplment familial"
+                "label": "Supplément familial"
               }
             }
           },
           "644": {
-            "label": "Rmunration du travail de l'exploitant"
+            "label": "Rémunération du travail de l'exploitant"
           },
           "645": {
-            "label": "Charges de scurit sociale et de prvoyance",
+            "label": "Charges de sécurité sociale et de prévoyance",
             "children": {
               "6451": {
-                "label": "Cotisations  l'URSSAF"
+                "label": "Cotisations à l'URSSAF"
               },
               "6452": {
                 "label": "Cotisations aux mutuelles"
@@ -2716,16 +2716,16 @@
                 "label": "Prestations directes"
               },
               "6472": {
-                "label": "Versements aux comits d'entreprise et d'tablissement"
+                "label": "Versements aux comités d'entreprise et d'établissement"
               },
               "6473": {
-                "label": "Versements aux comits d'hygine et de scurit"
+                "label": "Versements aux comités d'hygiène et de sécurité"
               },
               "6474": {
-                "label": "Versements aux autres uvres sociales"
+                "label": "Versements aux autres œuvres sociales"
               },
               "6475": {
-                "label": "Mdecine du travail, pharmacie"
+                "label": "Médecine du travail, pharmacie"
               }
             }
           },
@@ -2738,10 +2738,10 @@
         "label": "AUTRES CHARGES DE GESTION COURANTE",
         "children": {
           "651": {
-            "label": "Redevances pour concessions, brevets, licences, marques, procds, logiciels, droits et valeurs similaires",
+            "label": "Redevances pour concessions, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires",
             "children": {
               "6511": {
-                "label": "Redevances pour concessions, brevets, licences, marques, procds, logiciels"
+                "label": "Redevances pour concessions, brevets, licences, marques, procédés, logiciels"
               },
               "6516": {
                 "label": "Droits d'auteur et de reproduction"
@@ -2752,32 +2752,32 @@
             }
           },
           "653": {
-            "label": "Jetons de prsence"
+            "label": "Jetons de présence"
           },
           "654": {
-            "label": "Pertes sur crances irrcouvrables",
+            "label": "Pertes sur créances irrécouvrables",
             "children": {
               "6541": {
-                "label": "Crances de l'exercice"
+                "label": "Créances de l'exercice"
               },
               "6544": {
-                "label": "Crances des exercices antrieurs"
+                "label": "Créances des exercices antérieurs"
               }
             }
           },
           "655": {
-            "label": "Quotes - parts de rsultat sur oprations faites en commun",
+            "label": "Quotes - parts de résultat sur opérations faites en commun",
             "children": {
               "6551": {
-                "label": "Quote - part de bnfice transfre (comptabilit du grant)"
+                "label": "Quote - part de bénéfice transférée (comptabilité du gérant)"
               },
               "6555": {
-                "label": "Quote - part de perte supporte (comptabilit des associs non grants)"
+                "label": "Quote - part de perte supportée (comptabilité des associés non gérants)"
               }
             }
           },
           "656": {
-            "label": "Pertes de change sur crances commerciales"
+            "label": "Pertes de change sur créances commerciales"
           },
           "658": {
             "label": "Charges diverses de gestion courante"
@@ -2785,36 +2785,36 @@
         }
       },
       "66": {
-        "label": "CHARGES FINANCIRES",
+        "label": "CHARGES FINANCIÈRES",
         "children": {
           "661": {
-            "label": "Charges d'intrts",
+            "label": "Charges d'intérêts",
             "children": {
               "6611": {
-                "label": "Intrts des emprunts et dettes",
+                "label": "Intérêts des emprunts et dettes",
                 "children": {
                   "66116": {
-                    "label": "des emprunts et dettes assimiles"
+                    "label": "des emprunts et dettes assimilées"
                   },
                   "66117": {
-                    "label": "des dettes rattaches  des participations"
+                    "label": "des dettes rattachées à des participations"
                   }
                 }
               },
               "6612": {
-                "label": "Charges de la fiducie, rsultat de la priode"
+                "label": "Charges de la fiducie, résultat de la période"
               },
               "6615": {
-                "label": "Intrts des comptes courants et des dpts crditeurs"
+                "label": "Intérêts des comptes courants et des dépôts créditeurs"
               },
               "6616": {
-                "label": "Intrts bancaires et sur oprations de financement (escompte,...)"
+                "label": "Intérêts bancaires et sur opérations de financement (escompte,...)"
               },
               "6617": {
-                "label": "Intrts des obligations cautionnes"
+                "label": "Intérêts des obligations cautionnées"
               },
               "6618": {
-                "label": "Intrts des autres dettes",
+                "label": "Intérêts des autres dettes",
                 "children": {
                   "66181": {
                     "label": "des dettes commerciales"
@@ -2827,13 +2827,13 @@
             }
           },
           "664": {
-            "label": "Pertes sur crances lies  des participations"
+            "label": "Pertes sur créances liées à des participations"
           },
           "665": {
-            "label": "Escomptes accords"
+            "label": "Escomptes accordés"
           },
           "666": {
-            "label": "Pertes de change financires",
+            "label": "Pertes de change financières",
             "children": {
               "6661": {
                 "label": "Charges nettes sur cessions de jetons (3)"
@@ -2841,10 +2841,10 @@
             }
           },
           "667": {
-            "label": "Charges nettes sur cessions de valeurs mobilires de placement"
+            "label": "Charges nettes sur cessions de valeurs mobilières de placement"
           },
           "668": {
-            "label": "Autres charges financires"
+            "label": "Autres charges financières"
           }
         }
       },
@@ -2852,47 +2852,47 @@
         "label": "CHARGES EXCEPTIONNELLES",
         "children": {
           "671": {
-            "label": "Charges exceptionnelles sur oprations de gestion",
+            "label": "Charges exceptionnelles sur opérations de gestion",
             "children": {
               "6711": {
-                "label": "Pnalits sur marchs (et ddits pays sur achats et ventes)"
+                "label": "Pénalités sur marchés (et dédits payés sur achats et ventes)"
               },
               "6712": {
-                "label": "Pnalits, amendes fiscales et pnales"
+                "label": "Pénalités, amendes fiscales et pénales"
               },
               "6713": {
-                "label": "Dons, libralits"
+                "label": "Dons, libéralités"
               },
               "6714": {
-                "label": "Crances devenues irrcouvrables dans l'exercice"
+                "label": "Créances devenues irrécouvrables dans l'exercice"
               },
               "6715": {
-                "label": "Subventions accordes"
+                "label": "Subventions accordées"
               },
               "6717": {
-                "label": "Rappel d'impts (autres qu'impts sur les bnfices)"
+                "label": "Rappel d'impôts (autres qu'impôts sur les bénéfices)"
               },
               "6718": {
-                "label": "Autres charges exceptionnelles sur oprations de gestion"
+                "label": "Autres charges exceptionnelles sur opérations de gestion"
               }
             }
           },
           "672": {
-            "label": "(Compte  la disposition des entits pour enregistrer, en cours d'exercice, les charges sur exercices antrieurs)"
+            "label": "(Compte à la disposition des entités pour enregistrer, en cours d'exercice, les charges sur exercices antérieurs)"
           },
           "674": {
-            "label": "Oprations de constitution ou liquidation des fiducies",
+            "label": "Opérations de constitution ou liquidation des fiducies",
             "children": {
               "6741": {
-                "label": "Oprations lies  la constitution de la fiducie - transfert des lments"
+                "label": "Opérations liées à la constitution de la fiducie - transfert des éléments"
               },
               "6742": {
-                "label": "Oprations lies  la liquidation de la fiducie"
+                "label": "Opérations liées à la liquidation de la fiducie"
               }
             }
           },
           "675": {
-            "label": "Valeurs comptables des lments d'actif cds",
+            "label": "Valeurs comptables des éléments d'actif cédés",
             "children": {
               "6751": {
                 "label": "Immobilisations incorporelles"
@@ -2901,10 +2901,10 @@
                 "label": "Immobilisations corporelles"
               },
               "6756": {
-                "label": "Immobilisations financires"
+                "label": "Immobilisations financières"
               },
               "6758": {
-                "label": "Autres lments d'actif"
+                "label": "Autres éléments d'actif"
               }
             }
           },
@@ -2918,7 +2918,7 @@
                 "label": "Lots"
               },
               "6783": {
-                "label": "Malis provenant du rachat par l'entreprise d'actions et obligations mises par elle-mme"
+                "label": "Malis provenant du rachat par l'entreprise d'actions et obligations émises par elle-même"
               },
               "6788": {
                 "label": "Charges exceptionnelles diverses"
@@ -2928,10 +2928,10 @@
         }
       },
       "68": {
-        "label": "DOTATIONS AUX AMORTISSEMENTS, DPRCIATIONS ET PROVISIONS",
+        "label": "DOTATIONS AUX AMORTISSEMENTS, DÉPRÉCIATIONS ET PROVISIONS",
         "children": {
           "681": {
-            "label": "Dotations aux amortissements, dprciations et provisions  Charges d'exploitation",
+            "label": "Dotations aux amortissements, dépréciations et provisions – Charges d'exploitation",
             "children": {
               "6811": {
                 "label": "Dotations aux amortissements sur immobilisations incorporelles et corporelles",
@@ -2945,13 +2945,13 @@
                 }
               },
               "6812": {
-                "label": "Dotations aux amortissements des charges d'exploitation  rpartir"
+                "label": "Dotations aux amortissements des charges d'exploitation à répartir"
               },
               "6815": {
                 "label": "Dotations aux provisions d'exploitation"
               },
               "6816": {
-                "label": "Dotations aux dprciations des immobilisations incorporelles et corporelles",
+                "label": "Dotations aux dépréciations des immobilisations incorporelles et corporelles",
                 "children": {
                   "68161": {
                     "label": "Immobilisations incorporelles"
@@ -2962,35 +2962,35 @@
                 }
               },
               "6817": {
-                "label": "Dotations aux dprciations des actifs circulants",
+                "label": "Dotations aux dépréciations des actifs circulants",
                 "children": {
                   "68173": {
                     "label": "Stocks et en-cours"
                   },
                   "68174": {
-                    "label": "Crances"
+                    "label": "Créances"
                   }
                 }
               }
             }
           },
           "686": {
-            "label": "Dotations aux amortissements, dprciations et provisions - Charges financires",
+            "label": "Dotations aux amortissements, dépréciations et provisions - Charges financières",
             "children": {
               "6861": {
                 "label": "Dotations aux amortissements des primes de remboursement des obligations"
               },
               "6865": {
-                "label": "Dotations aux provisions financires"
+                "label": "Dotations aux provisions financières"
               },
               "6866": {
-                "label": "Dotations aux dprciations des lments financiers",
+                "label": "Dotations aux dépréciations des éléments financiers",
                 "children": {
                   "68662": {
-                    "label": "Immobilisations financires"
+                    "label": "Immobilisations financières"
                   },
                   "68665": {
-                    "label": "Valeurs mobilires de placement"
+                    "label": "Valeurs mobilières de placement"
                   }
                 }
               },
@@ -3000,71 +3000,71 @@
             }
           },
           "687": {
-            "label": "Dotations aux amortissements dprciations et provisions - Charges exceptionnelles",
+            "label": "Dotations aux amortissements dépréciations et provisions - Charges exceptionnelles",
             "children": {
               "6871": {
                 "label": "Dotations aux amortissements exceptionnels des immobilisations"
               },
               "6872": {
-                "label": "Dotations aux provisions rglementes (immobilisations)",
+                "label": "Dotations aux provisions réglementées (immobilisations)",
                 "children": {
                   "68725": {
-                    "label": "Amortissements drogatoires"
+                    "label": "Amortissements dérogatoires"
                   }
                 }
               },
               "6873": {
-                "label": "Dotations aux provisions rglementes (stocks)"
+                "label": "Dotations aux provisions réglementées (stocks)"
               },
               "6874": {
-                "label": "Dotations aux autres provisions rglementes"
+                "label": "Dotations aux autres provisions réglementées"
               },
               "6875": {
                 "label": "Dotations aux provisions exceptionnelles"
               },
               "6876": {
-                "label": "Dotations aux dprciations exceptionnelles"
+                "label": "Dotations aux dépréciations exceptionnelles"
               }
             }
           }
         }
       },
       "69": {
-        "label": "PARTICIPATION DES SALARIS - IMPTS SUR LES BNFICES ET ASSIMILS",
+        "label": "PARTICIPATION DES SALARIÉS - IMPÔTS SUR LES BÉNÉFICES ET ASSIMILÉS",
         "children": {
           "691": {
-            "label": "Participation des salaris aux rsultats"
+            "label": "Participation des salariés aux résultats"
           },
           "695": {
-            "label": "Impts sur les bnfices",
+            "label": "Impôts sur les bénéfices",
             "children": {
               "6951": {
-                "label": "Impts dus en France"
+                "label": "Impôts dus en France"
               },
               "6952": {
-                "label": "Contribution additionnelle  l'impt sur les bnfices"
+                "label": "Contribution additionnelle à l'impôt sur les bénéfices"
               },
               "6954": {
-                "label": "Impts dus  l'tranger"
+                "label": "Impôts dus à l'étranger"
               }
             }
           },
           "696": {
-            "label": "Supplments d'impt sur les socits lis aux distributions"
+            "label": "Suppléments d'impôt sur les sociétés liés aux distributions"
           },
           "698": {
-            "label": "Intgration fiscale",
+            "label": "Intégration fiscale",
             "children": {
               "6981": {
-                "label": "Intgration fiscale - Charges"
+                "label": "Intégration fiscale - Charges"
               },
               "6989": {
-                "label": "Intgration fiscale - Produits"
+                "label": "Intégration fiscale - Produits"
               }
             }
           },
           "699": {
-            "label": "Produits - Report en arrire des dficits"
+            "label": "Produits - Report en arrière des déficits"
           }
         }
       }
@@ -3074,112 +3074,39 @@
     "label": "",
     "children": {
       "70": {
-        "label": "VENTES DE PRODUITS FABRIQUS, PRESTATIONS DE SERVICES, MARCHANDISES",
+        "label": "VENTES DE PRODUITS FABRIQUÉS, PRESTATIONS DE SERVICES, MARCHANDISES",
         "children": {
           "701": {
-            "label": "Ventes de produits finis",
-            "children": {
-              "7011": {
-                "label": "Produits finis (ou groupe) A"
-              },
-              "7012": {
-                "label": "Produits finis (ou groupe) B"
-              }
-            }
+            "label": "Ventes de produits finis"
           },
           "702": {
-            "label": "Ventes de produits intermdiaires"
+            "label": "Ventes de produits intermédiaires"
           },
           "703": {
-            "label": "Ventes de produits rsiduels"
+            "label": "Ventes de produits résiduels"
           },
           "704": {
-            "label": "Travaux",
-            "children": {
-              "7041": {
-                "label": "Travaux de catgorie (ou activit) A"
-              },
-              "7042": {
-                "label": "Travaux de catgorie (ou activit) B"
-              }
-            }
+            "label": "Travaux"
           },
           "705": {
-            "label": "tudes"
+            "label": "Études"
           },
           "706": {
             "label": "Prestations de services"
           },
           "707": {
-            "label": "Ventes de marchandises",
-            "children": {
-              "7071": {
-                "label": "Marchandises (ou groupe) A"
-              },
-              "7072": {
-                "label": "Marchandises (ou groupe) B"
-              }
-            }
+            "label": "Ventes de marchandises"
           },
           "708": {
-            "label": "Produits des activits annexes",
-            "children": {
-              "7081": {
-                "label": "Produits et services exploits dans l'intrt du personnel"
-              },
-              "7082": {
-                "label": "Commissions et courtages"
-              },
-              "7083": {
-                "label": "Locations diverses"
-              },
-              "7084": {
-                "label": "Mise  disposition de personnel factur"
-              },
-              "7085": {
-                "label": "Port et frais accessoires facturs"
-              },
-              "7086": {
-                "label": "Bonis sur reprises d'emballages consigns"
-              },
-              "7087": {
-                "label": "Bonifications obtenues des clients et primes sur ventes"
-              },
-              "7088": {
-                "label": "Autres produits d'activits annexes (cessions d'approvisionnements)"
-              }
-            }
+            "label": "Produits des activités annexes"
           },
           "709": {
-            "label": "Rabais, remises et ristournes accords par l'entreprise",
-            "children": {
-              "7091": {
-                "label": "sur ventes de produits finis"
-              },
-              "7092": {
-                "label": "sur ventes de produits intermdiaires"
-              },
-              "7094": {
-                "label": "sur travaux"
-              },
-              "7095": {
-                "label": "sur tudes"
-              },
-              "7096": {
-                "label": "sur prestations de services"
-              },
-              "7097": {
-                "label": "sur ventes de marchandises"
-              },
-              "7098": {
-                "label": "sur produits des activits annexes"
-              }
-            }
+            "label": "Rabais, remises et ristournes accordés par l'entreprise"
           }
         }
       },
       "71": {
-        "label": "PRODUCTION STOCKE (OU DSTOCKAGE)",
+        "label": "PRODUCTION STOCKÉE (OU DÉSTOCKAGE)",
         "children": {
           "713": {
             "label": "Variation des stocks (en-cours de production, produits)",
@@ -3199,7 +3126,7 @@
                 "label": "Variation des en-cours de production de services",
                 "children": {
                   "71341": {
-                    "label": "tudes en cours"
+                    "label": "Études en cours"
                   },
                   "71345": {
                     "label": "Prestations de services en cours"
@@ -3210,13 +3137,13 @@
                 "label": "Variation des stocks de produits",
                 "children": {
                   "71351": {
-                    "label": "Produits intermdiaires"
+                    "label": "Produits intermédiaires"
                   },
                   "71355": {
                     "label": "Produits finis"
                   },
                   "71358": {
-                    "label": "Produits rsiduels"
+                    "label": "Produits résiduels"
                   }
                 }
               }
@@ -3225,7 +3152,7 @@
         }
       },
       "72": {
-        "label": "PRODUCTION IMMOBILISE",
+        "label": "PRODUCTION IMMOBILISÉE",
         "children": {
           "721": {
             "label": "Immobilisations incorporelles"
@@ -3242,10 +3169,10 @@
         "label": "AUTRES PRODUITS DE GESTION COURANTE",
         "children": {
           "751": {
-            "label": "Redevances pour concessions, brevets, licences, marques, procds, logiciels, droits et valeurs similaires",
+            "label": "Redevances pour concessions, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires",
             "children": {
               "7511": {
-                "label": "Redevances pour concessions, brevets, licences, marques, procds, logiciels"
+                "label": "Redevances pour concessions, brevets, licences, marques, procédés, logiciels"
               },
               "7516": {
                 "label": "Droits d'auteur et de reproduction"
@@ -3256,27 +3183,27 @@
             }
           },
           "752": {
-            "label": "Revenus des immeubles non affects  des activits professionnelles"
+            "label": "Revenus des immeubles non affectés à des activités professionnelles"
           },
           "753": {
-            "label": "Jetons de prsence et rmunrations d'administrateurs, grants"
+            "label": "Jetons de présence et rémunérations d'administrateurs, gérants"
           },
           "754": {
-            "label": "Ristournes perues des coopratives (provenant des excdents)"
+            "label": "Ristournes perçues des coopératives (provenant des excédents)"
           },
           "755": {
-            "label": "Quotes - parts de rsultat sur oprations faites en commun",
+            "label": "Quotes - parts de résultat sur opérations faites en commun",
             "children": {
               "7551": {
-                "label": "Quote - part de perte transfre (comptabilit du grant)"
+                "label": "Quote - part de perte transférée (comptabilité du gérant)"
               },
               "7555": {
-                "label": "Quote - part de bnfice attribue (comptabilit des associs non-part de bnfice attribue)"
+                "label": "Quote - part de bénéfice attribuée (comptabilité des associés non-part de bénéfice attribuée)"
               }
             }
           },
           "756": {
-            "label": "Gains de change sur crances commerciales"
+            "label": "Gains de change sur créances commerciales"
           },
           "758": {
             "label": "Produits divers de gestion courante"
@@ -3293,43 +3220,43 @@
                 "label": "Revenus des titres de participation"
               },
               "7612": {
-                "label": "Produits de la fiducie, rsultat de la priode"
+                "label": "Produits de la fiducie, résultat de la période"
               },
               "7616": {
                 "label": "Revenus sur autres formes de participation"
               },
               "7617": {
-                "label": "Revenus des crances rattaches  des participations"
+                "label": "Revenus des créances rattachées à des participations"
               }
             }
           },
           "762": {
-            "label": "Produits des autres immobilisations financires",
+            "label": "Produits des autres immobilisations financières",
             "children": {
               "7621": {
-                "label": "Revenus des titres immobiliss"
+                "label": "Revenus des titres immobilisés"
               },
               "7626": {
-                "label": "Revenus des prts"
+                "label": "Revenus des prêts"
               },
               "7627": {
-                "label": "Revenus des crances immobilises"
+                "label": "Revenus des créances immobilisées"
               }
             }
           },
           "763": {
-            "label": "Revenus des autres crances",
+            "label": "Revenus des autres créances",
             "children": {
               "7631": {
-                "label": "Revenus des crances commerciales"
+                "label": "Revenus des créances commerciales"
               },
               "7638": {
-                "label": "Revenus des crances diverses"
+                "label": "Revenus des créances diverses"
               }
             }
           },
           "764": {
-            "label": "Revenus des valeurs mobilires de placement"
+            "label": "Revenus des valeurs mobilières de placement"
           },
           "765": {
             "label": "Escomptes obtenus"
@@ -3343,7 +3270,7 @@
             }
           },
           "767": {
-            "label": "Produits nets sur cessions de valeurs mobilires de placement"
+            "label": "Produits nets sur cessions de valeurs mobilières de placement"
           },
           "768": {
             "label": "Autres produits financiers"
@@ -3354,44 +3281,44 @@
         "label": "PRODUITS EXCEPTIONNELS",
         "children": {
           "771": {
-            "label": "Produits exceptionnels sur oprations de gestion",
+            "label": "Produits exceptionnels sur opérations de gestion",
             "children": {
               "7711": {
-                "label": "Ddits et pnalits perus sur achats et sur ventes"
+                "label": "Dédits et pénalités perçus sur achats et sur ventes"
               },
               "7713": {
-                "label": "Libralits reues"
+                "label": "Libéralités reçues"
               },
               "7714": {
-                "label": "Rentres sur crances amorties"
+                "label": "Rentrées sur créances amorties"
               },
               "7715": {
-                "label": "Subventions d'quilibre"
+                "label": "Subventions d'équilibre"
               },
               "7717": {
-                "label": "Dgrvements d'impts autres qu'impts sur les bnfices"
+                "label": "Dégrèvements d'impôts autres qu'impôts sur les bénéfices"
               },
               "7718": {
-                "label": "Autres produits exceptionnels sur oprations de gestion"
+                "label": "Autres produits exceptionnels sur opérations de gestion"
               }
             }
           },
           "772": {
-            "label": "(Compte  la disposition des entits pour enregistrer, en cours d'exercice, les produits sur exercices antrieurs)"
+            "label": "(Compte à la disposition des entités pour enregistrer, en cours d'exercice, les produits sur exercices antérieurs)"
           },
           "774": {
-            "label": "Oprations de constitution ou liquidation des fiducies",
+            "label": "Opérations de constitution ou liquidation des fiducies",
             "children": {
               "7741": {
-                "label": "Oprations lies  la constitution de la fiducie - transfert des lments"
+                "label": "Opérations liées à la constitution de la fiducie - transfert des éléments"
               },
               "7742": {
-                "label": "Oprations lies  la liquidation de la fiducie"
+                "label": "Opérations liées à la liquidation de la fiducie"
               }
             }
           },
           "775": {
-            "label": "Produits des cessions d'lments d'actif",
+            "label": "Produits des cessions d'éléments d'actif",
             "children": {
               "7751": {
                 "label": "Immobilisations incorporelles"
@@ -3400,15 +3327,15 @@
                 "label": "Immobilisations corporelles"
               },
               "7756": {
-                "label": "Immobilisations financires"
+                "label": "Immobilisations financières"
               },
               "7758": {
-                "label": "Autres lments d'actif"
+                "label": "Autres éléments d'actif"
               }
             }
           },
           "777": {
-            "label": "Quote - part des subventions d'investissement vire au rsultat de l'exercice"
+            "label": "Quote - part des subventions d'investissement virée au résultat de l'exercice"
           },
           "778": {
             "label": "Autres produits exceptionnels",
@@ -3420,7 +3347,7 @@
                 "label": "Lots"
               },
               "7783": {
-                "label": "Bonis provenant du rachat par l'entreprise d'actions et d'obligations mises par elle-mme"
+                "label": "Bonis provenant du rachat par l'entreprise d'actions et d'obligations émises par elle-même"
               },
               "7788": {
                 "label": "Produits exceptionnels divers"
@@ -3430,10 +3357,10 @@
         }
       },
       "78": {
-        "label": "REPRISES SUR AMORTISSEMENTS, DPRCIATIONS ET PROVISIONS",
+        "label": "REPRISES SUR AMORTISSEMENTS, DÉPRÉCIATIONS ET PROVISIONS",
         "children": {
           "781": {
-            "label": "Reprises sur amortissements, dprciations et provisions ( inscrire dans les produits d'exploitation)",
+            "label": "Reprises sur amortissements, dépréciations et provisions (à inscrire dans les produits d'exploitation)",
             "children": {
               "7811": {
                 "label": "Reprises sur amortissements des immobilisations incorporelles et corporelles",
@@ -3450,7 +3377,7 @@
                 "label": "Reprises sur provisions d'exploitation"
               },
               "7816": {
-                "label": "Reprises sur dprciations des immobilisations corporelles et incorporelles",
+                "label": "Reprises sur dépréciations des immobilisations corporelles et incorporelles",
                 "children": {
                   "78161": {
                     "label": "Immobilisations incorporelles"
@@ -3461,65 +3388,65 @@
                 }
               },
               "7817": {
-                "label": "Reprises sur dprciations des actifs circulants",
+                "label": "Reprises sur dépréciations des actifs circulants",
                 "children": {
                   "78173": {
                     "label": "Stocks et en-cours"
                   },
                   "78174": {
-                    "label": "Crances"
+                    "label": "Créances"
                   }
                 }
               }
             }
           },
           "786": {
-            "label": "Reprises sur dprciations et provisions ( inscrire dans les produits financiers)",
+            "label": "Reprises sur dépréciations et provisions (à inscrire dans les produits financiers)",
             "children": {
               "7865": {
-                "label": "Reprises sur provisions financires"
+                "label": "Reprises sur provisions financières"
               },
               "7866": {
-                "label": "Reprises sur dprciations des lments financiers",
+                "label": "Reprises sur dépréciations des éléments financiers",
                 "children": {
                   "78662": {
-                    "label": "Immobilisations financires"
+                    "label": "Immobilisations financières"
                   },
                   "78665": {
-                    "label": "Valeurs mobilires de placement"
+                    "label": "Valeurs mobilières de placement"
                   }
                 }
               }
             }
           },
           "787": {
-            "label": "Reprises sur dprciations et provisions ( inscrire dans les produits exceptionnels)",
+            "label": "Reprises sur dépréciations et provisions (à inscrire dans les produits exceptionnels)",
             "children": {
               "7872": {
-                "label": "Reprises sur provisions rglementes (immobilisations)",
+                "label": "Reprises sur provisions réglementées (immobilisations)",
                 "children": {
                   "78725": {
-                    "label": "Amortissements drogatoires"
+                    "label": "Amortissements dérogatoires"
                   },
                   "78726": {
-                    "label": "Provision spciale de rvaluation"
+                    "label": "Provision spéciale de réévaluation"
                   },
                   "78727": {
-                    "label": "Plus - values rinvesties"
+                    "label": "Plus - values réinvesties"
                   }
                 }
               },
               "7873": {
-                "label": "Reprises sur provisions rglementes (stocks)"
+                "label": "Reprises sur provisions réglementées (stocks)"
               },
               "7874": {
-                "label": "Reprises sur autres provisions rglementes"
+                "label": "Reprises sur autres provisions réglementées"
               },
               "7875": {
                 "label": "Reprises sur provisions exceptionnelles"
               },
               "7876": {
-                "label": "Reprises sur dprciations exceptionnelles"
+                "label": "Reprises sur dépréciations exceptionnelles"
               }
             }
           }
@@ -3532,7 +3459,7 @@
             "label": "Transferts de charges d'exploitation"
           },
           "796": {
-            "label": "Transferts de charges financires"
+            "label": "Transferts de charges financières"
           },
           "797": {
             "label": "Transferts de charges exceptionnelles"
